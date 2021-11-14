@@ -1,12 +1,12 @@
 # Qiongkai Xu
-I am a research scientist at Huawei Noah's Ark Lab. I have finished my Ph.D. program at the Auatralian National University (ANU). My research interest include Machine Learning, Natural Language Processing and Data Mining. I am currently interested in certifying and developing 'superhuman' machine learning models.
+I am a research scientist at Huawei Noah's Ark Lab. I have finished my Ph.D. program at the Auatralian National University (ANU). I have worked several years for industry labes, Data61 CSIRO, IBM-CRL, and MSRA (intern). My research interest includes Machine Learning, Natural Language Processing and Data Mining. I am currently interested in *certifying and developing 'superhuman' machine learning models*.
 
- <div style="display: inline">Email: xu[dot]qiongkai[at]huawei.com</div>
+ <div style="display: inline">Email: xu[dot]qiongkai[at]huawei[dot]com</div>
 
 ---
 
-## Selected Publication
-Complete list of publication: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)]
+## Selected Publications
+Complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)]
 
 [**Humanly Certifying Superhuman Classifiers**](https://arxiv.org/pdf/2109.07867)\
 Qiongkai Xu, Christian Walder, Chenchen Xu\

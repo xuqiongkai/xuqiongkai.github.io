@@ -6,8 +6,7 @@ I am a research scientist at Huawei Noah's Ark Lab. I have finished my Ph.D. pro
 ---
 
 ## Selected Publication
-Complete list of publication: [[Google Scholar]
-(https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)]
+Complete list of publication: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)]
 
 [**Humanly Certifying Superhuman Classifiers**](https://arxiv.org/pdf/2109.07867)\
 Qiongkai Xu, Christian Walder, Chenchen Xu\

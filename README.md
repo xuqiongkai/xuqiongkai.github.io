@@ -1,12 +1,12 @@
 # Qiongkai Xu
-I am a research scientist at Huawei Noah's Ark Lab. I have finished my Ph.D. program at the Auatralian National University (ANU). I have worked several years for industry labes, Data61 CSIRO, IBM-CRL, and MSRA (intern). My research interest includes Machine Learning, Natural Language Processing and Data Mining. I am currently interested in *certifying and developing 'superhuman' machine learning models*.
+I am a research scientist at Huawei Noah's Ark Lab. I have finished my Ph.D. programme at the Auatralian National University (ANU). I have worked several years for industry labs, Data61 CSIRO, IBM-CRL, and MSRA (intern). My research interest includes Machine Learning, Natural Language Processing and Data Mining. I am currently interested in *certifying and developing 'superhuman' machine learning models*.
 
  <div style="display: inline">Email: xu[dot]qiongkai[at]huawei[dot]com</div>
 
 ---
 
 ## Selected Publications
-Complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)]
+A complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)]
 
 [**Humanly Certifying Superhuman Classifiers**](https://arxiv.org/pdf/2109.07867)\
 Qiongkai Xu, Christian Walder, Chenchen Xu\
@@ -28,6 +28,7 @@ Shaosheng Cao, Wei Lu, Qiongkai Xu\
 [**GraRep: Learning Graph Representations with Global Structural Information**](https://www.researchgate.net/profile/Qiongkai-Xu/publication/301417811_GraRep/links/5847ecdb08ae8e63e633b5f2/GraRep.pdf)\
 Shaosheng Cao, Wei Lu, Qiongkai Xu\
 <span style="color:gray">Proceedings of the 24th ACM international on conference on information and knowledge management (CIKM), Oct 2015</span>.
+
 
 ---
 

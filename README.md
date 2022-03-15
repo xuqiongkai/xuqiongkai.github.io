@@ -13,6 +13,10 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 Qiongkai Xu, Christian Walder, Chenchen Xu\
 *<span style="color:gray">Pre-print, Sep 2021</span>.*
 
+[**Protecting intellectual property of language generation apis with lexical watermark**](https://arxiv.org/pdf/2112.02701.pdf)\
+Xuanli He, Qiongkai Xu, Lingjuan Lyu, Fangzhao Wu, Chenguang Wang\
+*<span style="color:gray">Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Feb 2022</span>.*
+
 [**Personal Information Leakage Detection in Conversations**](https://www.aclweb.org/anthology/2020.emnlp-main.532.pdf)\
 Qiongkai Xu, Lizhen Qu, Zeyu Gao, Gholamreza Haffari\
 *<span style="color:gray">Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 2020</span>.*

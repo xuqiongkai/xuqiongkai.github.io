@@ -1,8 +1,10 @@
 # Qiongkai Xu
-I joined Huawei Noah's Ark Lab as a research scientist. I have recently finished my Ph.D. programme at the Australian National University (ANU). Before that, I graduated from Shanghai Jiao Tong University (SJTU). I have worked several years for industry labs, Data61 CSIRO, IBM-CRL, and MSRA (intern). My research interest includes Machine Learning, Natural Language Processing and Data Mining. I am currently interested in ***certifying and developing 'superhuman' machine learning models***. To be more specific, I am developing *i)* new evaluation paradigms for certifying ML models and *ii)* new training paradigms for better ML models.
+<!-- I joined Huawei Noah's Ark Lab as a research scientist. I have recently finished my Ph.D. programme at the Australian National University (ANU). Before that, I graduated from Shanghai Jiao Tong University (SJTU). I have worked several years for industry labs, Data61 CSIRO, IBM-CRL, and MSRA (intern). My research interest includes Machine Learning, Natural Language Processing and Data Mining. I am currently interested in ***certifying and developing 'superhuman' machine learning models***. To be more specific, I am developing *i)* new evaluation paradigms for certifying ML models and *ii)* new training paradigms for better ML models. -->
+
+I am a research fellow at the University of Melbourne (UoM). I have finished my Ph.D. programme at the Australian National University (ANU). Before that, I graduated from Shanghai Jiao Tong University (SJTU). I have worked several years for industry labs, Huawei Noah's Ark Lab, Data61 CSIRO, IBM China Research Lab, and Microsoft Research Asia (intern). My research generally lies in among Privacy & Security, Natural Language Processing and Machine Learning. Recently, I am interested in ***auditing machine learning models***, e.g., *i)* privacy and security issues in ML/NLP models and *ii)* new evaluation paradigms for ML/NLP models.
 
 If you are intrested in working with me, on some common research goals, please feel free to contact me.
- <div style="display: inline">Email: xu[dot]qiongkai[at]huawei[dot]com</div>
+ <div style="display: inline">Email: Qiongkai[dot]Xu[at]unimelb[dot]edu[dot]au</div>
 
 ---
 

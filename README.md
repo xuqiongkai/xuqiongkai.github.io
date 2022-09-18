@@ -12,12 +12,12 @@ If you are intrested in working with me, on some common research goals, please f
 A complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)]
 
 
-[**CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks**]()
-Xuanli He*, Qiongkai Xu*, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia
+[**CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks**]()\
+Xuanli He*, Qiongkai Xu*, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia\
 *<span style="color:gray">To appear in The 36th Conference on Neural Information Processing Systems (NeurIPS 2022)</span>.*
 
-[**Student Surpasses Teacher: Imitation Attack for Black-Box NLP APIs**]() \
-Qiongkai Xu, Xuanli He, Lingjuan Lyu, Lizhen Qu, Gholamreza Haffari
+[**Student Surpasses Teacher: Imitation Attack for Black-Box NLP APIs**]()\
+Qiongkai Xu, Xuanli He, Lingjuan Lyu, Lizhen Qu, Gholamreza Haffari\
 *<span style="color:gray">To appear in The 29th International Conference on Computational Linguistics (COLING 2022)</span>.*
 
 [**Humanly Certifying Superhuman Classifiers**](https://arxiv.org/pdf/2109.07867)\

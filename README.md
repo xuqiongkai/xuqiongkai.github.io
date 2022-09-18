@@ -11,37 +11,50 @@ If you are intrested in working with me, on some common research goals, please f
 ## Selected Publications
 A complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)]
 
+
+[**CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks**]()
+Xuanli He*, Qiongkai Xu*, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia
+*<span style="color:gray">To appear in The 36th Conference on Neural Information Processing Systems (NeurIPS 2022)</span>.*
+
+[**Student Surpasses Teacher: Imitation Attack for Black-Box NLP APIs**]() \
+Qiongkai Xu, Xuanli He, Lingjuan Lyu, Lizhen Qu, Gholamreza Haffari
+*<span style="color:gray">To appear in The 29th International Conference on Computational Linguistics (COLING 2022)</span>.*
+
 [**Humanly Certifying Superhuman Classifiers**](https://arxiv.org/pdf/2109.07867)\
 Qiongkai Xu, Christian Walder, Chenchen Xu\
 *<span style="color:gray">Pre-print, Sep 2021</span>.*
 
 [**Protecting intellectual property of language generation apis with lexical watermark**](https://arxiv.org/pdf/2112.02701.pdf)\
 Xuanli He, Qiongkai Xu, Lingjuan Lyu, Fangzhao Wu, Chenguang Wang\
-*<span style="color:gray">Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Feb 2022</span>.*
+*<span style="color:gray">Proceedings of The AAAI Conference on Artificial Intelligence (AAAI), Feb 2022</span>.*
 
 [**Personal Information Leakage Detection in Conversations**](https://www.aclweb.org/anthology/2020.emnlp-main.532.pdf)\
 Qiongkai Xu, Lizhen Qu, Zeyu Gao, Gholamreza Haffari\
-*<span style="color:gray">Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 2020</span>.*
+*<span style="color:gray">Proceedings of The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 2020</span>.*
 
 [**Adhering, Steering, and Queering: Treatment of Gender in Natural Language Generation**]()\
 Yolande Strengers, Lizhen Qu, Qiongkai Xu, Jarrod Knibbe\
-*<span style="color:gray">Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI), Apr 2020</span>.*
+*<span style="color:gray">Proceedings of The 2020 CHI Conference on Human Factors in Computing Systems (CHI), Apr 2020</span>.*
+
+[**Privacy-aware text rewriting**](https://aclanthology.org/W19-8633.pdf)\
+Qiongkai Xu, Lizhen Qu, Chenchen Xu, Ran Cui\
+*<span style="color:gray">Proceedings of The 12th International Conference on Natural Language Generation (INLG), Oct 2019</span>.*
 
 [**Deep Neural networks for Learning Graph Representations**](https://ojs.aaai.org/index.php/AAAI/article/download/10179/10038)\
 Shaosheng Cao, Wei Lu, Qiongkai Xu\
-*<span style="color:gray">Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Feb 2016</span>.*
+*<span style="color:gray">Proceedings of The AAAI Conference on Artificial Intelligence (AAAI), Feb 2016</span>.*
 
 
 [**GraRep: Learning Graph Representations with Global Structural Information**](https://www.researchgate.net/profile/Qiongkai-Xu/publication/301417811_GraRep/links/5847ecdb08ae8e63e633b5f2/GraRep.pdf)\
 Shaosheng Cao, Wei Lu, Qiongkai Xu\
-*<span style="color:gray">Proceedings of the 24th ACM international on conference on information and knowledge management (CIKM), Oct 2015</span>.*
+*<span style="color:gray">Proceedings of The 24th ACM international on conference on information and knowledge management (CIKM), Oct 2015</span>.*
 
 
 ---
 
 ## Misc
 
-I boulder regularly and aim at climbing high someday. I believe that doing research is similar to climbing.
+I boulder regularly and aim at climbing high someday. I believe that doing research is similar to bouldering and climbing.
 
 <span style="color:gray">This website is still under construction.</span>
 

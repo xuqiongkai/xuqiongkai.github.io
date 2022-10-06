@@ -4,10 +4,22 @@
 I am a research fellow on Security in NLP at the University of Melbourne (UoM). I have finished my Ph.D. programme at the Australian National University (ANU). Before that, I graduated from Shanghai Jiao Tong University (SJTU). I have worked several years for industry labs, Huawei Noah's Ark Lab, Data61 CSIRO, IBM China Research Lab, and Microsoft Research Asia (intern). My research generally lies in among Privacy & Security, Natural Language Processing and Machine Learning. Recently, I am interested in ***auditing machine learning models***, e.g., 1) privacy and security issues in ML/NLP models and 2) new evaluation paradigms for ML/NLP models.
 
 If you are intrested in working with me, on some common research goals, please feel free to contact me.
- <div style="display: inline">Email: Qiongkai[dot]Xu[at]unimelb[dot]edu[dot]au</div>
+ <div style="display: inline">Email: qiongkai.xu[at]unimelb.edu.au</div>
 
 ---
+## Recent News
 
+[2021 Oct] Two papers accepted to EMNLP main conference. Congrats to Zhuang and Xuanli!
+
+[2021 Sep] One paper accepted to NeurIPS.
+
+[2021 Sep] I am honored to be invited to give a talk at TrustML YSS.
+
+[2021 Aug] One paper accepted to COLING as oral presentation.
+
+[2021 Jun] I will join NLP Group @ University of Melbourne as Research Fellow on Security in NLP.
+
+---
 ## Selected Publications
 A complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)]
 

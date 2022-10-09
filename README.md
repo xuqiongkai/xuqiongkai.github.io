@@ -9,20 +9,27 @@ If you are intrested in working with me, on some common research goals, please f
 ---
 ## Recent News
 
-[2021 Oct] Two papers accepted to EMNLP main conference. Congrats to Zhuang and Xuanli!
+[2022 Oct] Two papers accepted to EMNLP main conference. Congrats to Zhuang and Xuanli!
 
-[2021 Sep] One paper accepted to NeurIPS.
+[2022 Sep] One paper accepted to NeurIPS.
 
-[2021 Sep] I am honored to be invited to give a talk at TrustML YSS.
+[2022 Sep] I am honored to be invited to give a talk at TrustML YSS.
 
-[2021 Aug] One paper accepted to COLING as oral presentation.
+[2022 Aug] One paper accepted to COLING as oral presentation.
 
-[2021 Jun] I will join NLP Group @ University of Melbourne as Research Fellow on Security in NLP.
+[2022 Jun] I will join NLP Group @ University of Melbourne as Research Fellow on Security in NLP.
 
 ---
-## Selected Publications
+## Recent and Selected Publications
 A complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)]
 
+[**Variational Autoencoder with Disentanglement Priors for Low-Resource Task-Specific Natural Language Generation**]()\
+Zhuang Li, Lizhen Qu, Qiongkai Xu, Tongtong Wu, Tianyang Zhan, Gholamreza Haffari\
+*<span style="color:gray">To appear in The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)</span>.*
+
+[**Extracted BERT Model Leaks More Information than You Think!**]()\
+Xuanli He, Lingjuan Lyu, Qiongkai Xu\
+*<span style="color:gray">To appear in The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)</span>.*
 
 [**CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks**]()\
 Xuanli He*, Qiongkai Xu*, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia\
@@ -32,13 +39,14 @@ Xuanli He*, Qiongkai Xu*, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Ji
 Qiongkai Xu, Xuanli He, Lingjuan Lyu, Lizhen Qu, Gholamreza Haffari\
 *<span style="color:gray">To appear in The 29th International Conference on Computational Linguistics (COLING 2022)</span>.*
 
+[**Protecting intellectual property of language generation apis with lexical watermark**](https://arxiv.org/pdf/2112.02701.pdf)\
+Xuanli He, Qiongkai Xu, Lingjuan Lyu, Fangzhao Wu, Chenguang Wang\
+*<span style="color:gray">Proceedings of The AAAI Conference on Artificial Intelligence (AAAI), Feb 2022</span>.*
+
 [**Humanly Certifying Superhuman Classifiers**](https://arxiv.org/pdf/2109.07867)\
 Qiongkai Xu, Christian Walder, Chenchen Xu\
 *<span style="color:gray">Pre-print, Sep 2021</span>.*
 
-[**Protecting intellectual property of language generation apis with lexical watermark**](https://arxiv.org/pdf/2112.02701.pdf)\
-Xuanli He, Qiongkai Xu, Lingjuan Lyu, Fangzhao Wu, Chenguang Wang\
-*<span style="color:gray">Proceedings of The AAAI Conference on Artificial Intelligence (AAAI), Feb 2022</span>.*
 
 [**Personal Information Leakage Detection in Conversations**](https://www.aclweb.org/anthology/2020.emnlp-main.532.pdf)\
 Qiongkai Xu, Lizhen Qu, Zeyu Gao, Gholamreza Haffari\

@@ -9,15 +9,15 @@ If you are intrested in working with me, on some common research goals, please f
 ---
 ## Recent News
 
-[2022 Oct] Two papers accepted to EMNLP main conference. Congrats to Zhuang and Xuanli!
+[Oct, 2022] Two papers accepted to EMNLP main conference. Congrats to Zhuang and Xuanli!
 
-[2022 Sep] One paper accepted to NeurIPS.
+[Sep, 2022] One paper accepted to NeurIPS.
 
-[2022 Sep] I am honored to be invited to give a talk at TrustML YSS.
+[Sep, 2022] I am honored to be invited to give a talk at TrustML YSS.
 
-[2022 Aug] One paper accepted to COLING as oral presentation.
+[Aug, 2022] One paper accepted to COLING as oral presentation.
 
-[2022 Jun] I will join NLP Group @ University of Melbourne as Research Fellow on Security in NLP.
+[Jun, 2022] I will join NLP Group @ University of Melbourne as Research Fellow on Security in NLP.
 
 ---
 ## Recent and Selected Publications
@@ -25,19 +25,19 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 
 [**Variational Autoencoder with Disentanglement Priors for Low-Resource Task-Specific Natural Language Generation**]()\
 Zhuang Li, Lizhen Qu, Qiongkai Xu, Tongtong Wu, Tianyang Zhan, Gholamreza Haffari\
-*<span style="color:gray">To appear in The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)</span>.*
+*<span style="color:gray">Proceedings of The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), Dec 2022</span>.*
 
 [**Extracted BERT Model Leaks More Information than You Think!**]()\
-Xuanli He, Lingjuan Lyu, Qiongkai Xu\
-*<span style="color:gray">To appear in The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)</span>.*
+Xuanli He, Chen Chen, Lingjuan Lyu, Qiongkai Xu\
+*<span style="color:gray">Proceedings of The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), Dec 2022</span>.*
 
 [**CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks**]()\
 Xuanli He*, Qiongkai Xu*, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia\
-*<span style="color:gray">To appear in The 36th Conference on Neural Information Processing Systems (NeurIPS 2022)</span>.*
+*<span style="color:gray">Proceedings of The 36th Conference on Neural Information Processing Systems (NeurIPS), Nov 2022</span>.*
 
 [**Student Surpasses Teacher: Imitation Attack for Black-Box NLP APIs**]()\
 Qiongkai Xu, Xuanli He, Lingjuan Lyu, Lizhen Qu, Gholamreza Haffari\
-*<span style="color:gray">To appear in The 29th International Conference on Computational Linguistics (COLING 2022)</span>.*
+*<span style="color:gray">Proceedings of The 29th International Conference on Computational Linguistics (COLING), Oct 2022</span>.*
 
 [**Protecting intellectual property of language generation apis with lexical watermark**](https://arxiv.org/pdf/2112.02701.pdf)\
 Xuanli He, Qiongkai Xu, Lingjuan Lyu, Fangzhao Wu, Chenguang Wang\
@@ -56,7 +56,7 @@ Qiongkai Xu, Lizhen Qu, Zeyu Gao, Gholamreza Haffari\
 Yolande Strengers, Lizhen Qu, Qiongkai Xu, Jarrod Knibbe\
 *<span style="color:gray">Proceedings of The 2020 CHI Conference on Human Factors in Computing Systems (CHI), Apr 2020</span>.*
 
-[**Privacy-aware text rewriting**](https://aclanthology.org/W19-8633.pdf)\
+[**Privacy-Aware Text Rewriting**](https://aclanthology.org/W19-8633.pdf)\
 Qiongkai Xu, Lizhen Qu, Chenchen Xu, Ran Cui\
 *<span style="color:gray">Proceedings of The 12th International Conference on Natural Language Generation (INLG), Oct 2019</span>.*
 

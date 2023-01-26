@@ -9,19 +9,19 @@ If you are intrested in working with me, on some common research goals, please f
 ---
 ## Recent News
 
-[Jan, 2023] One paper accepted to ICLR'23 (spotlight). If you would like to certify a 'superhuman' machine learning model, check our latest paper.
+[Jan, 2023] One paper is accepted to ICLR'23 (spotlight). If you would like to certify a 'superhuman' machine learning model, check our latest paper.
 
-[Jan, 2023] Congrats to Yujin and Terry! One paper accepted to WWW'23 (acceptance rate 19.2%). Check out our 'Training-Free Lexical Backdoor attacks on Language Models'.
+[Jan, 2023] Congrats to Yujin and Terry! One paper 'Training-Free Lexical Backdoor attacks on Language Models' is accepted to WWW'23 (acceptance rate 19.2%).
 
-[Oct, 2022] Two papers accepted to EMNLP main conference. Congrats to Zhuang and Xuanli!
+[Oct, 2022] Two papers are accepted to EMNLP main conference. Congrats to Zhuang and Xuanli!
 
-[Sep, 2022] One paper accepted to NeurIPS.
+[Sep, 2022] One paper is accepted to NeurIPS. Check our work on conditional watermarks for NLP APIs.
 
-[Sep, 2022] I am honored to be invited to give a talk at TrustML YSS.
+[Sep, 2022] I am honored to be invited to give a talk at TrustML YSS on 'Humanly Certifying Superhuman Classifiers'.
 
-[Aug, 2022] One paper accepted to COLING as oral presentation.
+[Aug, 2022] One paper is accepted to COLING as oral presentation.
 
-[Jun, 2022] I will join NLP Group @ University of Melbourne as Research Fellow on Security in NLP.
+[Jun, 2022] I will join NLP Group @ University of Melbourne as a Research Fellow on Security in NLP.
 
 ---
 ## Recent and Selected Publications

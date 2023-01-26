@@ -9,6 +9,10 @@ If you are intrested in working with me, on some common research goals, please f
 ---
 ## Recent News
 
+[Jan, 2023] One paper accepted to ICLR'23 (spotlight). If you would like to certify a 'superhuman' machine learning model, check our latest paper.
+
+[Jan, 2023] Congrats to Yujin and Terry! One paper accepted to WWW'23 (acceptance rate 19.2%). Check out our 'Training-Free Lexical Backdoor attacks on Language Models'.
+
 [Oct, 2022] Two papers accepted to EMNLP main conference. Congrats to Zhuang and Xuanli!
 
 [Sep, 2022] One paper accepted to NeurIPS.
@@ -22,6 +26,15 @@ If you are intrested in working with me, on some common research goals, please f
 ---
 ## Recent and Selected Publications
 A complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)]
+
+[**On the Certification of Classifiers for Outperforming Human Annotators**](https://arxiv.org/abs/2109.07867)\
+ArXiv version: [**Humanly Certifying Superhuman Classifiers**](https://arxiv.org/abs/2109.07867)\
+Qiongkai Xu, Christian Walder, Chenchen Xu\
+*<span style="color:gray">(To appear at ICLR 2023, spotlight)</span>.*
+
+[**Training-Free Lexical Backdoor attacks on Language Models**]()\
+Yujin Huang, Terry Zhuo Yue, Qiongkai Xu, Han Hu, Xingliang Yuan, Chunyang Chen\
+*<span style="color:gray">(Accepted to WWW 2023)</span>.*
 
 [**Variational Autoencoder with Disentanglement Priors for Low-Resource Task-Specific Natural Language Generation**]()\
 Zhuang Li, Lizhen Qu, Qiongkai Xu, Tongtong Wu, Tianyang Zhan, Gholamreza Haffari\

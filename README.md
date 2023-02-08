@@ -8,6 +8,7 @@ If you are intrested in working with me, on some common research goals, please f
 
 ---
 ## Recent News
+[Feb, 2023] 'Security Challenges in Natural Language Processing Models' is accepted to EMNLP 2023 (Tutorial). See you in Singapore!
 
 [Jan, 2023] One paper is accepted to ICLR'23 (spotlight). If you would like to certify a 'superhuman' machine learning model, check our latest paper.
 
@@ -56,9 +57,9 @@ Qiongkai Xu, Xuanli He, Lingjuan Lyu, Lizhen Qu, Gholamreza Haffari\
 Xuanli He, Qiongkai Xu, Lingjuan Lyu, Fangzhao Wu, Chenguang Wang\
 *<span style="color:gray">Proceedings of The AAAI Conference on Artificial Intelligence (AAAI), Feb 2022</span>.*
 
-[**Humanly Certifying Superhuman Classifiers**](https://arxiv.org/pdf/2109.07867)\
+<!-- [**Humanly Certifying Superhuman Classifiers**](https://arxiv.org/pdf/2109.07867)\
 Qiongkai Xu, Christian Walder, Chenchen Xu\
-*<span style="color:gray">Pre-print, Sep 2021</span>.*
+*<span style="color:gray">Pre-print, Sep 2021</span>.* -->
 
 
 [**Personal Information Leakage Detection in Conversations**](https://www.aclweb.org/anthology/2020.emnlp-main.532.pdf)\
@@ -89,7 +90,7 @@ Shaosheng Cao, Wei Lu, Qiongkai Xu\
 
 I boulder regularly and aim at climbing high someday. I believe that doing research is similar to bouldering and climbing.
 
-<span style="color:gray">This website is still under construction.</span>
+<!-- <span style="color:gray">This website is still under construction.</span> -->
 
 <!-- You are welcome to email me if you believe so and want to do something in this era. -->
 

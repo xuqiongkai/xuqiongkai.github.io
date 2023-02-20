@@ -1,0 +1,9 @@
+{
+  "lang": "en-US",
+  "name": "Website of Qiongkai Xu",
+  "short_name": "WebsiteofQiongkaiXu",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}

@@ -1,5 +1,6 @@
 # Set theme
 remote_theme: daviddarnes/alembic@main
+# theme: alembic-jekyll-theme
 
 # File excludes
 exclude:
@@ -23,11 +24,10 @@ plugins:
 # Site settings
 url: 'https://xuqiongkai.github.io'
 baseurl: ''
-title: 'Qiongkai Xu'
-description: 'Welcome to my new website!'
+title: 'Qiongkai's website'
+description: 'Welcome to my new website.'
 permalink: pretty
-# logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
-logo: "/img/photo.jpeg"
+logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # Pagination
 paginate: 5
@@ -39,20 +39,23 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Publications
+- title: Publication
   url: /pub/
-- title: Teaching
-  url: /teach/
 # - title: Blog
 #   url: /blog/
 
+
 # Footer nav
+# navigation_footer:
+# - title: Back to top
+#   url: "#top"
 
 navigation_footer:
 - title: Created by Qiongkai Xu
   url: https://xuqiongkai.github.io
 - title: Template by David Darnes
   url: https://github.com/daviddarnes/alembic
+
 
 
 # Collections

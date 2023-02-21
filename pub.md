@@ -3,9 +3,8 @@ title: Publications
 feature_image: "https://picsum.photos/1300/400?image=256" # 114
 feature_text: |
   # ***Discovering the unknown, advancing our world.***
-  by ChatGPT
+  *by ChatGPT*
 ---
-Research is looking up at the stars
 
 A complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Qiongkai-Xu/3101288)]
 
@@ -15,7 +14,7 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 Qiongkai Xu, Christian Walder, Chenchen Xu\
 *<span style="color:gray">(Accepted to ICLR 2023, spotlight)</span>.*
 
-+ [**Training-Free Lexical Backdoor attacks on Language Models**]()\
++ [**Training-Free Lexical Backdoor Attacks on Language Models**]()\
 Yujin Huang, Terry Zhuo Yue, Qiongkai Xu, Han Hu, Xingliang Yuan, Chunyang Chen\
 *<span style="color:gray">(Accepted to WWW 2023)</span>.*
 
@@ -30,14 +29,14 @@ Xuanli He, Chen Chen, Lingjuan Lyu, Qiongkai Xu\
 *<span style="color:gray">Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), Dec 2022</span>.*
 
 + [**CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks**](https://openreview.net/forum?id=L7P3IvsoUXY)\
-Xuanli He*, Qiongkai Xu*, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia\
+Xuanli He, Qiongkai Xu, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia\
 *<span style="color:gray">Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS), Nov 2022</span>.*
 
 + [**Student Surpasses Teacher: Imitation Attack for Black-Box NLP APIs**](https://aclanthology.org/2022.coling-1.251/)\
 Qiongkai Xu, Xuanli He, Lingjuan Lyu, Lizhen Qu, Gholamreza Haffari\
 *<span style="color:gray">Proceedings of the 29th International Conference on Computational Linguistics (COLING), Oct 2022</span>.*
 
-+ [**Protecting intellectual property of language generation apis with lexical watermark**](https://arxiv.org/pdf/2112.02701.pdf)\
++ [**Protecting Intellectual Property of Language Generation APIs with Lexical Watermark**](https://arxiv.org/pdf/2112.02701.pdf)\
 Xuanli He, Qiongkai Xu, Lingjuan Lyu, Fangzhao Wu, Chenguang Wang\
 *<span style="color:gray">Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Feb 2022</span>.*
 

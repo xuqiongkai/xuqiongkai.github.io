@@ -8,7 +8,7 @@ feature_text: |
 ## Teaching
 ### 2023
 + **Text Analytics for Business (BUSA90543)** (Winter Semester)
-    + Melbourne Business School
+    + Melbourne Business School, University of Melbourne
     + Co-lectured with Jay Han Lau
 
 + **Security Challenges in Natural Language Processing Models** (EMNLP Tutorial)
@@ -17,7 +17,7 @@ feature_text: |
 
 ### 2020
 + **Document Analysis (COMP4650/COMP6490)** (Semester 2)
-    + Research School of Computer Science
+    + Research School of Computer Science, Australian National Unviersity
     + Co-lectured with Alexsandar Antic
     + Preparing course material for two new sections, Machine Learning for NLP and NLP in Practice.
 

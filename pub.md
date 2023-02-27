@@ -9,8 +9,7 @@ feature_text: |
 A complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Qiongkai-Xu/3101288)]
 
 ### To Appear
-+ [**On the Certification of Classifiers for Outperforming Human Annotators**](https://arxiv.org/abs/2109.07867)\
-<!-- ArXiv version: [**Humanly Certifying Superhuman Classifiers**](https://arxiv.org/abs/2109.07867)\ -->
++ [**Humanly Certifying Superhuman Classifiers**](https://openreview.net/forum?id=X5ZMzRYqUjB)\
 Qiongkai Xu, Christian Walder, Chenchen Xu\
 *<span style="color:gray">(Accepted to ICLR 2023, spotlight)</span>.*
 

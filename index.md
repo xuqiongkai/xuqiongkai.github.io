@@ -15,7 +15,7 @@ If you're as passionate about these research topics, I would love to hear your t
 ### Latest News
 + [Feb, 2023] I will be teaching **'Text Analytics for Business'** (BUSA90543) this winter semester.
 + [Feb, 2023] **'Security Challenges in Natural Language Processing Models'** is accepted to EMNLP 2023 (<span style="color:blue">Tutorial</span>). See you in Singapore!
-+ [Jan, 2023] One paper **'On the Certification of Classifiers for Outperforming Human Annotators'** is accepted to ICLR'23 (<span style="color:red">spotlight, notable-top-25%</span>). If you would like to certify a 'superhuman' classifier, check our latest paper.
++ [Jan, 2023] One paper **'Humanly Certifying Superhuman Classifiers'** is accepted to ICLR'23 (<span style="color:red">spotlight, notable-top-25%</span>). If you would like to certify a 'superhuman' classifier, check our latest paper.
 + [Jan, 2023] Congrats to Yujin and Terry! One paper **'Training-Free Lexical Backdoor attacks on Language Models'** is accepted to WWW'23 (<span style="color:blue">oral, acceptance rate 19.2%</span>).
 + [Oct, 2022] Two papers are accepted to EMNLP main conference. Congrats to Zhuang and Xuanli!
 + [Sep, 2022] One paper is accepted to NeurIPS. Check our work on conditional watermarks for NLP APIs.
@@ -24,7 +24,7 @@ If you're as passionate about these research topics, I would love to hear your t
 <!-- + [Jun, 2022] I will join NLP Group @ University of Melbourne as a Research Fellow on Security in NLP. -->
 
 ### Recent and Selected Publications
-+ [**On the Certification of Classifiers for Outperforming Human Annotators**](https://arxiv.org/abs/2109.07867), Qiongkai Xu, Christian Walder, Chenchen Xu
++ [**Humanly Certifying Superhuman Classifiers**](https://openreview.net/forum?id=X5ZMzRYqUjB), Qiongkai Xu, Christian Walder, Chenchen Xu
 *<span style="color:gray">(Accepted to ICLR 2023, spotlight)</span>.*
 
 + [**Training-Free Lexical Backdoor Attacks on Language Models**](https://arxiv.org/abs/2302.04116), Yujin Huang, Terry Zhuo Yue, Qiongkai Xu, Han Hu, Xingliang Yuan, Chunyang Chen

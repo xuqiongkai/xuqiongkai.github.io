@@ -1,11 +1,11 @@
 ---
-# title: Teaching
+title: Teaching
 feature_image: "https://picsum.photos/1300/400?image=500" # 110
 feature_text: |
   # ***Empowering minds, shaping futures.***
   *by ChatGPT*
 ---
-## Teaching
+
 ### 2023
 + **Text Analytics for Business (BUSA90543)** (Winter Semester)
     + Melbourne Business School, University of Melbourne

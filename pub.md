@@ -71,7 +71,7 @@ Qiongkai Xu, Lizhen Qu, Chenchen Xu, Ran Cui\
 Qiongkai Xu, Juyan Zhang, Lizhen Qu, Lexing Xie, Richard Nock\
 *<span style="color:gray">Pre-print, Aug 2018</span>.* -->
 
-### 2018 and Before
+### 2018 and before
 + [**EPUTION at SemEval-2018 Task 2: Emoji Prediction with User Adaption**](https://aclanthology.org/S18-1071/)\
 Liyuan Zhou, Qiongkai Xu, Hanna Suominen, Tom Gedeon\
 *<span style="color:gray">Proceedings of the 12th International Workshop on Semantic Evaluation (SemEval), Jun 2018</span>.*

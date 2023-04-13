@@ -13,7 +13,7 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 Qiongkai Xu, Christian Walder, Chenchen Xu\
 *<span style="color:gray">(Accepted to ICLR 2023, spotlight)</span>.*
 
-+ [**Training-Free Lexical Backdoor Attacks on Language Models**]()\
++ [**Training-Free Lexical Backdoor Attacks on Language Models**](https://arxiv.org/abs/2302.04116)\
 Yujin Huang, Terry Zhuo Yue, Qiongkai Xu, Han Hu, Xingliang Yuan, Chunyang Chen\
 *<span style="color:gray">(Accepted to WWW 2023)</span>.*
 
@@ -96,6 +96,10 @@ Zhuang Li, Lizhen Qu, Qiongkai Xu, Mark Johnson\
 + [**Semantic Documents Relatedness using Concept Graph Representation**](https://dl.acm.org/doi/abs/10.1145/2835776.2835801)\
 Yuan Ni, Qiong Kai Xu, Feng Cao, Yosi Mass, Dafna Sheinwald, Hui Jia Zhu, Shao Sheng Cao\
 *<span style="color:gray">Proceedings of the 9th ACM International Conference on Web Search and Data Mining (WSDM), Feb 2016</span>.*
+
++ [**Deep Neural networks for Learning Graph Representations**](https://ojs.aaai.org/index.php/AAAI/article/download/10179/10038)\
+Shaosheng Cao, Wei Lu, Qiongkai Xu\
+*<span style="color:gray">Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Feb 2016</span>.*
 
 
 + [**Detecting English-French Cognates Using Orthographic Edit Distance**](https://aclanthology.org/U15-1020.pdf)\

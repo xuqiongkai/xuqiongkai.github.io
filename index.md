@@ -13,6 +13,7 @@ If you're as passionate about these research topics, I would love to hear your t
 
 
 ### Latest News
++ [Apr, 2023] I will serve as Publication Chair at **ALTA 2023**.
 + [Feb, 2023] I will be teaching **'Text Analytics for Business'** (BUSA90543) this winter semester.
 + [Feb, 2023] **'Security Challenges in Natural Language Processing Models'** is accepted to EMNLP 2023 (<span style="color:blue">Tutorial</span>). See you in Singapore!
 + [Jan, 2023] One paper **'Humanly Certifying Superhuman Classifiers'** is accepted to ICLR'23 (<span style="color:red">spotlight, notable-top-25%</span>). If you would like to certify a 'superhuman' classifier, check our latest paper.

@@ -38,9 +38,8 @@ If you're as passionate about these research topics, I would love to hear your t
 <!-- + [**Extracted BERT Model Leaks More Information than You Think!**](https://aclanthology.org/2022.emnlp-main.99/), Xuanli He, Chen Chen, Lingjuan Lyu, Qiongkai Xu\
 *<span style="color:gray">Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), Dec 2022</span>.* -->
 
-+ [**CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks**](https://openreview.net/forum?id=L7P3IvsoUXY), Xuanli He*, Qiongkai Xu*, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia
++ [**CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks**](https://openreview.net/forum?id=L7P3IvsoUXY), Xuanli He, Qiongkai Xu, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia
 *<span style="color:gray">Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS), Nov 2022</span>.*
-[* indicates equal contribution]
 
 + [**Student Surpasses Teacher: Imitation Attack for Black-Box NLP APIs**](https://aclanthology.org/2022.coling-1.251/), Qiongkai Xu, Xuanli He, Lingjuan Lyu, Lizhen Qu, Gholamreza Haffari 
 *<span style="color:gray">Proceedings of the 29th International Conference on Computational Linguistics (COLING), Oct 2022</span>.*

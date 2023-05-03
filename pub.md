@@ -9,6 +9,11 @@ feature_text: |
 A complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Qiongkai-Xu/3101288)]
 
 ### To Appear
++ [**Rethinking Round-Trip Translation for Machine Translation Evaluation**](https://arxiv.org/abs/2209.07351)\
+Terry Yue Zhuo, Qiongkai Xu, Xuanli He, Trevor Cohn\
+*<span style="color:gray">(Accepted to Findings of ACL 2023)</span>.*
+
+
 + [**Humanly Certifying Superhuman Classifiers**](https://openreview.net/forum?id=X5ZMzRYqUjB)\
 Qiongkai Xu, Christian Walder, Chenchen Xu\
 *<span style="color:gray">(Accepted to ICLR 2023, spotlight)</span>.*

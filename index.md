@@ -13,7 +13,7 @@ If you're as passionate about these research topics, I would love to hear your t
 
 
 ### Latest News
-+ [Apr, 2023] **'Rethinking Round-Trip Translation for Machine Translation Evaluation'** is accepted to Findings of ACL 2023. Our work discusses and clarifies the confusing signals in Round-Trip Translation (RTT) evaluation on SMT, and we demonstrate some successful use of RTT evaluation on NMT. Congrats to Terry and all co-authors!
++ [May, 2023] **'Rethinking Round-Trip Translation for Machine Translation Evaluation'** is accepted to Findings of ACL 2023. Our work discusses and clarifies the confusing signals in Round-Trip Translation (RTT) evaluation on SMT, and we demonstrate some successful usage of RTT evaluation on NMT. Congrats to Terry and all co-authors!
 + [Apr, 2023] I will serve as Publication Chair at **ALTA 2023**.
 + [Feb, 2023] I will be teaching **'Text Analytics for Business'** (BUSA90543) this winter semester.
 + [Feb, 2023] **'Security Challenges in Natural Language Processing Models'** is accepted to EMNLP 2023 (<span style="color:blue">Tutorial</span>). See you in Singapore!

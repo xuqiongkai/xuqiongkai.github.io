@@ -27,8 +27,12 @@ If you're as passionate about these research topics, I would love to hear your t
 
 ### Selected Publications
 
++ [**Rethinking Round-Trip Translation for Machine Translation Evaluation**](https://arxiv.org/abs/2209.07351), Terry Yue Zhuo, Qiongkai Xu, Xuanli He, Trevor Cohn\
+*<span style="color:gray">(Accepted to Findings of ACL 2023)</span>.*
+
+
 + [**Humanly Certifying Superhuman Classifiers**](https://openreview.net/forum?id=X5ZMzRYqUjB), Qiongkai Xu, Christian Walder, Chenchen Xu
-*<span style="color:gray">(Accepted to ICLR 2023, spotlight)</span>.*
+*<span style="color:gray"> Proceedings of the Eleventh International Conference on Learning Representations (ICLR), May 2023</span>.*
 
 <!-- + [**Training-Free Lexical Backdoor Attacks on Language Models**](https://arxiv.org/abs/2302.04116), Yujin Huang, Terry Zhuo Yue, Qiongkai Xu, Han Hu, Xingliang Yuan, Chunyang Chen
 *<span style="color:gray">(Accepted to WWW 2023)</span>.* -->

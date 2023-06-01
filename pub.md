@@ -13,14 +13,15 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 Terry Yue Zhuo, Qiongkai Xu, Xuanli He, Trevor Cohn\
 *<span style="color:gray">(Accepted to Findings of ACL 2023)</span>.*
 
+### 2023
 
 + [**Humanly Certifying Superhuman Classifiers**](https://openreview.net/forum?id=X5ZMzRYqUjB)\
 Qiongkai Xu, Christian Walder, Chenchen Xu\
-*<span style="color:gray">(Accepted to ICLR 2023, spotlight)</span>.*
+*<span style="color:gray"> Proceedings of the Eleventh International Conference on Learning Representations (ICLR), May 2023</span>.*
 
-+ [**Training-Free Lexical Backdoor Attacks on Language Models**](https://arxiv.org/abs/2302.04116)\
++ [**Training-Free Lexical Backdoor Attacks on Language Models**](https://dl.acm.org/doi/abs/10.1145/3543507.3583348)\
 Yujin Huang, Terry Zhuo Yue, Qiongkai Xu, Han Hu, Xingliang Yuan, Chunyang Chen\
-*<span style="color:gray">(Accepted to WWW 2023)</span>.*
+*<span style="color:gray">Proceedings of the ACM Web Conference 2023 (WWW), Apr 2023</span>.*
 
 
 ### 2022

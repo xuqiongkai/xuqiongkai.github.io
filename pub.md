@@ -9,11 +9,17 @@ feature_text: |
 A complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Qiongkai-Xu/3101288)]
 
 ### To Appear
-+ [**Rethinking Round-Trip Translation for Machine Translation Evaluation**](https://arxiv.org/abs/2209.07351)\
-Terry Yue Zhuo, Qiongkai Xu, Xuanli He, Trevor Cohn\
-*<span style="color:gray">(Accepted to Findings of ACL 2023)</span>.*
++ [**Fingerprint Attack: Client De-Anonymization in Federated Learning**]()\
+Qiongkai Xu, Trevor Cohn, Olya Ohrimenko\
+*<span style="color:gray">(Accepted to ECAI 2023)</span>.*
+
+
 
 ### 2023
+
++ [**Rethinking Round-Trip Translation for Machine Translation Evaluation**](https://arxiv.org/abs/2209.07351)\
+Terry Yue Zhuo, Qiongkai Xu, Xuanli He, Trevor Cohn\
+*<span style="color:gray"> Findings of the Association for Computational Linguistics: ACL (Findings-ACL), Jul 2023 </span>.*
 
 + [**Humanly Certifying Superhuman Classifiers**](https://openreview.net/forum?id=X5ZMzRYqUjB)\
 Qiongkai Xu, Christian Walder, Chenchen Xu\
@@ -25,13 +31,14 @@ Yujin Huang, Terry Zhuo Yue, Qiongkai Xu, Han Hu, Xingliang Yuan, Chunyang Chen\
 
 
 ### 2022
++ [**Extracted BERT Model Leaks More Information than You Think!**](https://aclanthology.org/2022.emnlp-main.99/)\
+Xuanli He, Chen Chen, Lingjuan Lyu, Qiongkai Xu\
+*<span style="color:gray">Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), Dec 2022</span>.*
+
 + [**Variational Autoencoder with Disentanglement Priors for Low-Resource Task-Specific Natural Language Generation**](https://aclanthology.org/2022.emnlp-main.706/)\
 Zhuang Li, Lizhen Qu, Qiongkai Xu, Tongtong Wu, Tianyang Zhan, Gholamreza Haffari\
 *<span style="color:gray">Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), Dec 2022</span>.*
 
-+ [**Extracted BERT Model Leaks More Information than You Think!**](https://aclanthology.org/2022.emnlp-main.99/)\
-Xuanli He, Chen Chen, Lingjuan Lyu, Qiongkai Xu\
-*<span style="color:gray">Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), Dec 2022</span>.*
 
 + [**CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks**](https://openreview.net/forum?id=L7P3IvsoUXY)\
 Xuanli He, Qiongkai Xu, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia\

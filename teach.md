@@ -21,6 +21,7 @@ feature_text: |
     + Co-lectured with Alexsandar Antic
     + Preparing course material for two new sections, Machine Learning for NLP and NLP in Practice.
 
-## Tutor
-+ ANU: Software Construction, Data Mining, Document Analysis
-+ SJTU: Natural Language Processing, Introduction to Python, Practical Course of Database Management System.
+### Before 2020
++ **Tutor for multiple CS courses**
+    + @ANU: Software Construction, Data Mining, Document Analysis.
+    + @SJTU: Natural Language Processing, Introduction to Python, Practical Course of Database Management System.

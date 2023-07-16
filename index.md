@@ -6,15 +6,17 @@ feature_text: |
   ### Research Fellow @ University of Melbourne
 ---
 
-Dr. Qiongkai Xu is a research fellow on Security in NLP at the University of Melbourne (UoM) in Australia. Qiongkai's research primarily lies in among Privacy & Security, Natural Language Processing, Machine Learning and Data Mining. Recently, he is interested in ***auditing machine learning models***, such as 1) unvealing privacy and security issues in ML/NLP models and 2) evaluating ML/NLP models from various angles.
+Dr. Qiongkai Xu is a research fellow on Security in NLP at the University of Melbourne (UoM) in Australia. Qiongkai's research primarily lies in among Privacy & Security, Natural Language Processing, Machine Learning and Data Mining. Lately, his attention has been directed towards ***auditing machine learning models***, specifically in two areas: 1) uncovering privacy and security concerns in ML/NLP models and 2) developing evaluation theory and methods for ML/NLP models from various perspectives. 
+
 
 If you're as passionate about these research topics, I would love to hear your thoughts and ideas.
 *Email: qiongkai.xu[at]unimelb.edu.au*
 
 
 ### Latest News
-+ [May, 2023] **'Rethinking Round-Trip Translation for Machine Translation Evaluation'** is accepted to Findings of ACL 2023. Our work discusses and clarifies the confusing signals in Round-Trip Translation (RTT) evaluation on SMT, and we demonstrate some successful usage of RTT evaluation on NMT. Congrats to Terry and all co-authors!
-+ [Apr, 2023] I will serve as Publication Chair at **ALTA 2023**.
++ [Jul, 2023] **Fingerprint Attack: Client De-Anonymization in Federated Learning** is accepted to ECAI 2023 (with acceptance rate 24%).
++ [May, 2023] **'Rethinking Round-Trip Translation for Machine Translation Evaluation'** is accepted to Findings of ACL 2023. 
++ [Apr, 2023] I will serve as Publication Chair at [**ALTA 2023**](https://alta2023.alta.asn.au).
 + [Feb, 2023] I will be teaching **'Text Analytics for Business'** (BUSA90543) this winter semester.
 + [Feb, 2023] **'Security Challenges in Natural Language Processing Models'** is accepted to EMNLP 2023 (<span style="color:blue">Tutorial</span>). See you in Singapore!
 + [Jan, 2023] One paper **'Humanly Certifying Superhuman Classifiers'** is accepted to ICLR'23 (<span style="color:red">spotlight, notable-top-25%</span>). If you would like to certify a 'superhuman' classifier, check our latest paper.

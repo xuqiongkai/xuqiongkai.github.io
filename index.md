@@ -29,7 +29,7 @@ If you're as passionate about these research topics, I would love to hear your t
 
 ### Selected Publications
 
-+ [**Rethinking Round-Trip Translation for Machine Translation Evaluation**](https://arxiv.org/abs/2209.07351), Terry Yue Zhuo, Qiongkai Xu, Xuanli He, Trevor Cohn\
++ [**Rethinking Round-Trip Translation for Machine Translation Evaluation**](https://aclanthology.org/2023.findings-acl.22/), Terry Yue Zhuo, Qiongkai Xu, Xuanli He, Trevor Cohn\
 *<span style="color:gray">(Accepted to Findings of ACL 2023)</span>.*
 
 

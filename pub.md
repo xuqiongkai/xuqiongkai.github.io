@@ -10,14 +10,14 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 
 ### To Appear
 + [**Fingerprint Attack: Client De-Anonymization in Federated Learning**]()\
-Qiongkai Xu, Trevor Cohn, Olya Ohrimenko\
+Qiongkai Xu, Trevor Cohn, Olga Ohrimenko\
 *<span style="color:gray">(Accepted to ECAI 2023)</span>.*
 
 
 
 ### 2023
 
-+ [**Rethinking Round-Trip Translation for Machine Translation Evaluation**](https://arxiv.org/abs/2209.07351)\
++ [**Rethinking Round-Trip Translation for Machine Translation Evaluation**](https://aclanthology.org/2023.findings-acl.22/)\
 Terry Yue Zhuo, Qiongkai Xu, Xuanli He, Trevor Cohn\
 *<span style="color:gray"> Findings of the Association for Computational Linguistics: ACL (Findings-ACL), Jul 2023 </span>.*
 

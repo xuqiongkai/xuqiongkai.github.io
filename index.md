@@ -9,7 +9,7 @@ feature_text: |
 Dr. Qiongkai Xu is a research fellow on Security in NLP at the University of Melbourne (UoM) in Australia. Qiongkai's research primarily lies in among Privacy & Security, Natural Language Processing, Machine Learning and Data Mining. Lately, his attention has been directed towards ***auditing machine learning models***, specifically in two areas: 1) uncovering privacy and security concerns in ML/NLP models and 2) developing evaluation theory and methods for ML/NLP models from various perspectives. 
 
 
-If you're as passionate about these research topics, I would love to hear your thoughts and ideas.
+If you're passionate about these research topics, I would love to hear your thoughts and ideas.
 *Email: qiongkai.xu[at]unimelb.edu.au*
 
 

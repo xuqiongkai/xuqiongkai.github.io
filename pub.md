@@ -24,6 +24,7 @@ Terry Yue Zhuo, Qiongkai Xu, Xuanli He, Trevor Cohn\
 + [**Humanly Certifying Superhuman Classifiers**](https://openreview.net/forum?id=X5ZMzRYqUjB)\
 Qiongkai Xu, Christian Walder, Chenchen Xu\
 *<span style="color:gray"> Proceedings of the Eleventh International Conference on Learning Representations (ICLR), May 2023</span>.*
+<span style="color:blue">Spotlight, notable-top-25%</span> 
 
 + [**Training-Free Lexical Backdoor Attacks on Language Models**](https://dl.acm.org/doi/abs/10.1145/3543507.3583348)\
 Yujin Huang, Terry Zhuo Yue, Qiongkai Xu, Han Hu, Xingliang Yuan, Chunyang Chen\
@@ -79,7 +80,8 @@ Qiongkai Xu, Chenchen Xu, Lizhen Qu\
 
 + [**Privacy-Aware Text Rewriting**](https://aclanthology.org/W19-8633.pdf)\
 Qiongkai Xu, Lizhen Qu, Chenchen Xu, Ran Cui\
-*<span style="color:gray">Proceedings of the 12th International Conference on Natural Language Generation (INLG), Oct 2019</span>.*
+*<span style="color:gray">Proceedings of the 12th International Conference on Natural Language Generation (INLG), Oct 2019</span>.* \
+<span style="color:blue">Google H-5 index:</span> [2018-23](https://scholar.google.com/citations?hl=zh-CN&view_op=list_hcore&venue=g-l3y5waBCYJ.2023&vq=eng_computationallinguistics&cstart=20)
 <!-- + [**D-PAGE: Diverse Paraphrase Generation**](https://arxiv.org/abs/1808.04364)\
 Qiongkai Xu, Juyan Zhang, Lizhen Qu, Lexing Xie, Richard Nock\
 *<span style="color:gray">Pre-print, Aug 2018</span>.* -->
@@ -112,7 +114,8 @@ Yuan Ni, Qiong Kai Xu, Feng Cao, Yosi Mass, Dafna Sheinwald, Hui Jia Zhu, Shao S
 
 + [**Deep Neural networks for Learning Graph Representations**](https://ojs.aaai.org/index.php/AAAI/article/download/10179/10038)\
 Shaosheng Cao, Wei Lu, Qiongkai Xu\
-*<span style="color:gray">Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Feb 2016</span>.*
+*<span style="color:gray">Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Feb 2016</span>.* \
+<span style="color:blue">Google H-5 index:</span> [2014-2019](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=PV9sQN5dnPsJ.2019&vq=eng_artificialintelligence&cstart=20) [2015-2020](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=PV9sQN5dnPsJ.2020&vq=eng_artificialintelligence&cstart=20), [2016-2021](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=PV9sQN5dnPsJ.2021&vq=eng_artificialintelligence&cstart=20)
 
 
 + [**Detecting English-French Cognates Using Orthographic Edit Distance**](https://aclanthology.org/U15-1020.pdf)\
@@ -122,7 +125,8 @@ Qiongkai Xu, Albert Chen, Chang Li\
 
 + [**GraRep: Learning Graph Representations with Global Structural Information**](https://www.researchgate.net/profile/Qiongkai-Xu/publication/301417811_GraRep/links/5847ecdb08ae8e63e633b5f2/GraRep.pdf)\
 Shaosheng Cao, Wei Lu, Qiongkai Xu\
-*<span style="color:gray">Proceedings of the 24th ACM international on Conference on Information and Knowledge Management (CIKM), Oct 2015</span>.*
+*<span style="color:gray">Proceedings of the 24th ACM international on Conference on Information and Knowledge Management (CIKM), Oct 2015</span>.* \
+<span style="color:blue">Google H-5 index:</span> [2013-2018](https://scholar.google.com/citations?hl=en&vq=eng_databasesinformationsystems&view_op=list_hcore&venue=V-IMg2OTpU8J.2018), [2014-2019](https://scholar.google.com/citations?hl=en&vq=eng_databasesinformationsystems&view_op=list_hcore&venue=V-IMg2OTpU8J.2019), [2015-2020](https://scholar.google.com/citations?hl=en&vq=eng_databasesinformationsystems&view_op=list_hcore&venue=V-IMg2OTpU8J.2020)
 
 + [**Using Deep Linguistic Features for Finding Deceptive Opinion Spam**](https://aclanthology.org/C12-2131.pdf)\
 Qiongkai Xu, Hai Zhao\

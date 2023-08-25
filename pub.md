@@ -23,7 +23,7 @@ Terry Yue Zhuo, Qiongkai Xu, Xuanli He, Trevor Cohn\
 
 + [**Humanly Certifying Superhuman Classifiers**](https://openreview.net/forum?id=X5ZMzRYqUjB)\
 Qiongkai Xu, Christian Walder, Chenchen Xu\
-*<span style="color:gray"> Proceedings of the Eleventh International Conference on Learning Representations (ICLR), May 2023</span>.*
+*<span style="color:gray"> Proceedings of the Eleventh International Conference on Learning Representations (ICLR), May 2023</span>.*\
 <span style="color:blue">Spotlight, notable-top-25%</span> 
 
 + [**Training-Free Lexical Backdoor Attacks on Language Models**](https://dl.acm.org/doi/abs/10.1145/3543507.3583348)\
@@ -115,7 +115,7 @@ Yuan Ni, Qiong Kai Xu, Feng Cao, Yosi Mass, Dafna Sheinwald, Hui Jia Zhu, Shao S
 + [**Deep Neural networks for Learning Graph Representations**](https://ojs.aaai.org/index.php/AAAI/article/download/10179/10038)\
 Shaosheng Cao, Wei Lu, Qiongkai Xu\
 *<span style="color:gray">Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Feb 2016</span>.* \
-<span style="color:blue">Google H-5 index:</span> [2014-2019](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=PV9sQN5dnPsJ.2019&vq=eng_artificialintelligence&cstart=20) [2015-2020](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=PV9sQN5dnPsJ.2020&vq=eng_artificialintelligence&cstart=20), [2016-2021](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=PV9sQN5dnPsJ.2021&vq=eng_artificialintelligence&cstart=20)
+<span style="color:blue">Google H-5 index:</span> [2014-2019](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=PV9sQN5dnPsJ.2019&vq=eng_artificialintelligence&cstart=20), [2015-2020](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=PV9sQN5dnPsJ.2020&vq=eng_artificialintelligence&cstart=20), [2016-2021](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=PV9sQN5dnPsJ.2021&vq=eng_artificialintelligence&cstart=20)
 
 
 + [**Detecting English-French Cognates Using Orthographic Edit Distance**](https://aclanthology.org/U15-1020.pdf)\

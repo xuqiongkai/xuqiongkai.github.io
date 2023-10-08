@@ -24,8 +24,9 @@ If you're passionate about these research topics, I would love to hear your thou
 + [Feb, 2023] **'Security Challenges in Natural Language Processing Models'** is accepted to EMNLP 2023 (<span style="color:blue">Tutorial</span>). See you in Singapore!
 + [Jan, 2023] One paper **'Humanly Certifying Superhuman Classifiers'** is accepted to ICLR'23 (<span style="color:red">spotlight, notable-top-25%</span>). If you would like to certify a 'superhuman' classifier, check our latest paper.
 + [Jan, 2023] Congrats to Yujin and Terry! **'Training-Free Lexical Backdoor attacks on Language Models'** is accepted to WWW'23 (<span style="color:blue">oral, acceptance rate 19.2%</span>).
-<!-- + [Oct, 2022] Two papers are accepted to EMNLP main conference. Congrats to Zhuang and Xuanli!
-+ [Sep, 2022] One paper is accepted to NeurIPS. Check our work on conditional watermarks for NLP APIs. -->
+
+<!-- + [Oct, 2022] Two papers are accepted to EMNLP main conference. Congrats to Zhuang and Xuanli! -->
+<!-- + [Sep, 2022] One paper is accepted to NeurIPS. Check our work on conditional watermarks for NLP APIs. -->
 <!-- + [Sep, 2022] I am honored to be invited to give a talk at TrustML YSS on **'Humanly Certifying Superhuman Classifiers'**. -->
 <!-- + [Aug, 2022] One paper **'Student Surpasses Teacher: Imitation Attack for Black-Box NLP APIs'** is accepted to COLING (<span style="color:blue">oral</span>). -->
 <!-- + [Jun, 2022] I will join NLP Group @ University of Melbourne as a Research Fellow on Security in NLP. -->

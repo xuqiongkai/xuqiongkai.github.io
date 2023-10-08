@@ -9,13 +9,22 @@ feature_text: |
 A complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Qiongkai-Xu/3101288)]
 
 ### To Appear
-+ [**Fingerprint Attack: Client De-Anonymization in Federated Learning**]()\
-Qiongkai Xu, Trevor Cohn, Olga Ohrimenko\
-*<span style="color:gray">(Accepted to ECAI 2023)</span>.*
++ [**Mitigating Backdoor Poisoning Attacks through the Lens of Spurious Correlation**]()\
+Xuanli He, Qiongkai Xu, Jun Wang, Benjamin I. P. Rubinstein, Trevor Cohn\
+*<span style="color:gray">(Accepted to EMNLP 2023)</span>.*
 
++ [**Boot and Switch: Alternating Distillation for Zero-Shot Dense Retrieval**]()\
+Fan Jiang, Qiongkai Xu, Tom Drummond, Trevor Cohn\
+*<span style="color:gray">(Accepted to Findings-EMNLP 2023)</span>.*
 
 
 ### 2023
+
+
++ [**Fingerprint Attack: Client De-Anonymization in Federated Learning**]()\
+Qiongkai Xu, Trevor Cohn, Olga Ohrimenko\
+*<span style="color:gray"> Proceedings of the 26th European Conference on Artificial Intelligence (ECAI), Oct 2023</span>.*
+
 
 + [**Rethinking Round-Trip Translation for Machine Translation Evaluation**](https://aclanthology.org/2023.findings-acl.22/)\
 Terry Yue Zhuo, Qiongkai Xu, Xuanli He, Trevor Cohn\

@@ -3,17 +3,18 @@ title: Towards Trustworthy AI
 feature_image: "https://picsum.photos/1300/400?image=222"
 feature_text: |
   # Qiongkai Xu
-  ### Research Fellow @ University of Melbourne
+  ### Lecturer (equiv. Asst. Prof.) @ Macquarie University
 ---
 
-Dr. Qiongkai Xu is a research fellow on Security in NLP at the University of Melbourne (UoM) in Australia. Qiongkai's research primarily lies in among Privacy & Security, Natural Language Processing, Machine Learning and Data Mining. Lately, his attention has been directed towards ***auditing machine learning models***, specifically in two areas: 1) uncovering privacy and security concerns in ML/NLP models and 2) developing evaluation theory and methods for ML/NLP models from various perspectives. 
+Dr. Qiongkai Xu is a lecturer at Macquarie University, having earned his PhD from the Australian National University and previously served as a research fellow a the University of Melbourne. His research primarily focuses on Natural Language Processing, Privacy & Security, Machine Learning and Data Mining. Recently, his attention has been directed towards ***auditing machine learning models***, specifically in two areas: 1) identifying and addressing privacy and security issues in ML/NLP models and their applications and 2) developing comprehensive evaluation theory and methods for ML/NLP models from various perspectives. 
 
 
 If you're passionate about these research topics, I would love to hear your thoughts and ideas.
-*Email: qiongkai.xu[at]unimelb.edu.au*
+*Email: qiongkai.xu[at]mq.edu.au*
 
 
 ### Latest News
++ [Oct, 2023] I am excited to become a lecturer at Macquarie University!
 + [Oct, 2023] **'Mitigating Backdoor Poisoning Attacks through the Lens of Spurious Correlation'** is accepted to EMNLP 2023. Congratulations to Xuanli!
 + [Oct, 2023] **'Boot and Switch: Alternating Distillation for Zero-Shot Dense Retrieval'** is accepted to Findings of EMNLP 2023. Congratulations to Fan!
 + [Sep, 2023] I am honored to be awarded **DAAD Net-AI fellowship**, visiting University of Bonn and Leuphana University of Luneburg.

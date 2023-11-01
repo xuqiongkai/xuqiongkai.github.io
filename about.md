@@ -3,7 +3,7 @@ title: About me
 feature_image: "https://picsum.photos/1300/400?image=768"
 ---
 
-I am a research fellow on Security in NLP at the University of Melbourne (UoM), with a Ph.D. from the Australian National University (ANU) and degrees from Shanghai Jiao Tong University (SJTU). I have gained working experience at industry labs including Huawei Noah's Ark Lab, Data61 CSIRO, IBM China Research Lab, and Microsoft Research Asia (intern). My research focus spans across Privacy & Security, Natural Language Processing and Machine Learning, with a current interest in ***auditing machine learning models***. Specifically, I am exploring novel evaluation paradigms and addressing privacy and security issues associated with ML/NLP models.
+I serve as a lecturer (assistant professor) at Macquarie University, having earned my PhD at the Australian National University. Before my current role, I worked as a research fellow on Security in NLP at the University of Melbourne. My professional journey includes valuable experience at industry research labs, such as Huawei Noah's Ark Lab, Data61 CSIRO, IBM China Research Lab, and an internship at Microsoft Research Asia. My research focus spans across Natural Language Processing, Machine Learning, Privacy & Security and Data Mining, with a current interest in ***auditing machine learning models***. I am dedicated to exploring innovative evaluation paradigms and addressing privacy and security challenges associated with ML/NLP models.
 
 ## Miscellaneous
 

@@ -6,7 +6,7 @@ feature_text: |
   ### Lecturer (equiv. Asst. Prof.) @ Macquarie University
 ---
 
-Dr. Qiongkai Xu is a lecturer at Macquarie University, having earned his PhD from the Australian National University and previously served as a research fellow a the University of Melbourne. His research primarily focuses on Natural Language Processing, Privacy & Security, Machine Learning and Data Mining. Recently, his attention has been directed towards ***auditing machine learning models***, specifically in two areas: 1) identifying and addressing privacy and security issues in ML/NLP models and their applications and 2) developing comprehensive evaluation theory and methods for ML/NLP models from various perspectives. 
+Dr. Qiongkai Xu is a lecturer at Macquarie University, having earned his PhD from the Australian National University and previously served as a research fellow at the University of Melbourne. His research primarily focuses on Natural Language Processing, Privacy & Security, Machine Learning and Data Mining. Recently, his attention has been directed towards ***auditing machine learning models***, specifically in two areas: 1) identifying and addressing privacy and security issues in ML/NLP models and their applications and 2) developing comprehensive evaluation theory and methods for ML/NLP models from various perspectives. 
 
 
 If you're passionate about these research topics, I would love to hear your thoughts and ideas.

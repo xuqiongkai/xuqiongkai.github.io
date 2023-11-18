@@ -16,7 +16,7 @@ If you're passionate about these research topics, I would love to hear your thou
 ### Latest News
 + [Nov, 2023] I am fortunate to have won the **Research Pitching Session** at Macquarie University! 
 + [Nov, 2023] I am honored to serve as an **Area Chair** for **LREC-COLING 2024**! 
-+ [Oct, 2023] I am excited to become a lecturer at Macquarie University!
++ [Oct, 2023] I am excited to become a **lecturer** (a.k.a assitant professor) at Macquarie University!
 + [Oct, 2023] **'Mitigating Backdoor Poisoning Attacks through the Lens of Spurious Correlation'** is accepted to EMNLP 2023. Congratulations to Xuanli!
 + [Oct, 2023] **'Boot and Switch: Alternating Distillation for Zero-Shot Dense Retrieval'** is accepted to Findings of EMNLP 2023. Congratulations to Fan!
 + [Sep, 2023] I am honored to be awarded **DAAD Net-AI fellowship**, visiting University of Bonn and Leuphana University of Luneburg.

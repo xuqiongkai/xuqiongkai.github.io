@@ -20,11 +20,13 @@ Fan Jiang, Qiongkai Xu, Tom Drummond, Trevor Cohn\
 
 ### 2023
 
++ [**Overview of the 2023 ALTA Shared Task: Discriminate between Human-Written and Machine-Generated Text**]()\
+Diego Molla, Haolan Zhan, Xuanli He, Qiongkai Xu\
+*<span style="color:gray"> In Proceedings of the 21st Annual Workshop of the Australasian Language Technology Association (ALTA), Nov 2023</span>.*
 
 + [**Fingerprint Attack: Client De-Anonymization in Federated Learning**]()\
 Qiongkai Xu, Trevor Cohn, Olga Ohrimenko\
 *<span style="color:gray"> Proceedings of the 26th European Conference on Artificial Intelligence (ECAI), Oct 2023</span>.*
-
 
 + [**Rethinking Round-Trip Translation for Machine Translation Evaluation**](https://aclanthology.org/2023.findings-acl.22/)\
 Terry Yue Zhuo, Qiongkai Xu, Xuanli He, Trevor Cohn\

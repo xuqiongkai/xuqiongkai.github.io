@@ -14,6 +14,7 @@ If you're passionate about these research topics, I would love to hear your thou
 
 
 ### Latest News
++ [Dec, 2023] Our tutorial on [**Security Challenges in NLP models**](https://aclanthology.org/2023.emnlp-tutorial.2.pdf) are now available!
 + [Nov, 2023] I am fortunate to have won the **Research Pitching Session** at Macquarie University! 
 + [Nov, 2023] I am honored to serve as an **Area Chair** for **LREC-COLING 2024**! 
 + [Oct, 2023] I am excited to become a **lecturer** (a.k.a assitant professor) at Macquarie University!

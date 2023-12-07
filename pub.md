@@ -8,17 +8,22 @@ feature_text: |
 
 A complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Qiongkai-Xu/3101288)]
 
-### To Appear
+<!-- ### To Appear -->
+
+### 2023
+
++ [**Security Challenges in Natural Language Processing Models**](https://aclanthology.org/2023.emnlp-tutorial.2/)\
+Qiongkai Xu, Xuanli He\
+*<span style="color:gray"> In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: Tutorial Abstracts, Dec 2023</span>.*
+
 + [**Mitigating Backdoor Poisoning Attacks through the Lens of Spurious Correlation**]()\
 Xuanli He, Qiongkai Xu, Jun Wang, Benjamin I. P. Rubinstein, Trevor Cohn\
-*<span style="color:gray">(Accepted to EMNLP 2023)</span>.*
+*<span style="color:gray"> In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), Dec 2023</span>.*
 
 + [**Boot and Switch: Alternating Distillation for Zero-Shot Dense Retrieval**]()\
 Fan Jiang, Qiongkai Xu, Tom Drummond, Trevor Cohn\
-*<span style="color:gray">(Accepted to Findings-EMNLP 2023)</span>.*
+*<span style="color:gray"> In Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (Findings-EMNLP 2023), Dec 2023</span>.*
 
-
-### 2023
 
 + [**Overview of the 2023 ALTA Shared Task: Discriminate between Human-Written and Machine-Generated Text**]()\
 Diego Molla, Haolan Zhan, Xuanli He, Qiongkai Xu\

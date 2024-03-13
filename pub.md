@@ -8,7 +8,17 @@ feature_text: |
 
 A complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Qiongkai-Xu/3101288)]
 
-<!-- ### To Appear -->
+### To Appear
+
++ [**Backdoor Attacks on Multilingual Machine Translation**]()\
+Jun Wang, Qiongkai Xu, Xuanli He, Benjamin I. P. Rubinstein, Trevor Cohn\
+*<span style="color:gray">(Accepted to NAACL 2024)</span>.*
+
++ [**Attacks on Third-Party APIs of Large Language Models**]()\
+Wanru Zhao, Vidit Khazanchi, Haodi Xing, Xuanli He, Qiongkai Xu, Nicholas Donald Lane\
+*<span style="color:gray">(Accepted to SeT-LLM@ICLR 2024)</span>.*
+
+
 
 ### 2023
 

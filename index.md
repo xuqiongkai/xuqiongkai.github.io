@@ -15,9 +15,10 @@ If you're passionate about these research topics, I would love to hear your thou
 
 
 ### Latest News
-+ [Mar, 2023] I am honored to have been appointed as an honorary fellow at the University of Melbourne! PhD and MRes applicants to both [MQ](https://www.mq.edu.au/research/phd-and-research-degrees/how-to-apply/scholarship-opportunities) and [UoM](https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships) are welcomed.
-+ [Mar, 2023] **"Attacks on Third-Party APIs of Large Language Models"** is accepted to SeT-LLM@ICLR 2024.
-+ [Feb, 2023] I am honored to serve as an **Action Editor / Area Chair** for **ACL Rolling Review**! 
++ [Mar, 2024] **"Backdoor Attacks on Multilingual Machine Translation"** is accepted to NAACL, the main conference. Congratulations to Jun!
++ [Mar, 2024] I am honored to have been appointed as an honorary fellow at the University of Melbourne! PhD and MRes applicants to both [MQ](https://www.mq.edu.au/research/phd-and-research-degrees/how-to-apply/scholarship-opportunities) and [UoM](https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships) are welcomed.
++ [Mar, 2024] **"Attacks on Third-Party APIs of Large Language Models"** is accepted to SeT-LLM@ICLR 2024.
++ [Feb, 2024] I am honored to serve as an **Action Editor / Area Chair** for **ACL Rolling Review**! 
 + [Dec, 2023] Our EMNLP'23 tutorial on [**Security Challenges in NLP models**](https://aclanthology.org/2023.emnlp-tutorial.2.pdf) are now available!
 + [Nov, 2023] I am fortunate to have won the **Research Pitching Session** at Macquarie University! 
 + [Nov, 2023] I am honored to serve as an **Area Chair** for **LREC-COLING 2024**! 

@@ -15,6 +15,7 @@ If you're passionate about these research topics, I would love to hear your thou
 
 
 ### Latest News
++ [Apr, 2024] Our tutorial: **"A Copyright War: Authentication for Large Language Models"** is accepted to IJCAI 2024 (<span style="color:blue">Tutorial</span>). See you in Korea!
 + [Mar, 2024] **"Backdoor Attacks on Multilingual Machine Translation"** is accepted to NAACL, the main conference. Congratulations to Jun!
 + [Mar, 2024] I am honored to have been appointed as an honorary fellow at the University of Melbourne! PhD and MRes applicants to both [MQ](https://www.mq.edu.au/research/phd-and-research-degrees/how-to-apply/scholarship-opportunities) and [UoM](https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships) are welcomed.
 + [Mar, 2024] **"Attacks on Third-Party APIs of Large Language Models"** is accepted to SeT-LLM@ICLR 2024.

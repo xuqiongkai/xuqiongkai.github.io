@@ -7,9 +7,11 @@ feature_text: |
 ---
 ### 2024
 + **Advanced Natural Language Processing, COMP8420** (S1)
+    + School of Computing, FSE, Macquarie University
+    + Co-lectured with Greg Backer
 
 + **A Copyright War: Authentication for Large Language Models** (IJCAI Tutorial)
-    + To appear at the 33rd International Joint Conference on Artificial Intelligence
+    + To appear at the 33rd International Joint Conference on Artificial Intelligence @ Jeju
     + Co-lectured with Xuanli He
 
 ### 2023
@@ -18,8 +20,9 @@ feature_text: |
     + Co-lectured with Jay Han Lau
 
 + **Security Challenges in Natural Language Processing Models** (EMNLP Tutorial)
-    + The 2023 Conference on Empirical Methods in Natural Language Processing
+    + The 2023 Conference on Empirical Methods in Natural Language Processing @ Singapore
     + Co-lectured with Xuanli He
+    + [[Paper]](https://aclanthology.org/2023.emnlp-tutorial.2/) [[Website]](https://emnlp2023-nlp-security.github.io/)
 
 ### 2020
 + **Document Analysis, COMP4650/COMP6490** (Semester 2)

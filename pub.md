@@ -10,7 +10,7 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 
 ### To Appear
 
-+ [**Backdoor Attacks on Multilingual Machine Translation**]()\
++ [**Backdoor Attacks on Multilingual Machine Translation**](https://arxiv.org/pdf/2404.02393.pdf)\
 Jun Wang, Qiongkai Xu, Xuanli He, Benjamin I. P. Rubinstein, Trevor Cohn\
 *<span style="color:gray">(Accepted to NAACL 2024)</span>.*
 

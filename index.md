@@ -13,10 +13,10 @@ Dr. Qiongkai Xu is a lecturer at Macquarie University, having earned his PhD fro
 If you're passionate about these research topics, I would love to hear your thoughts and ideas.
 *Email: qiongkai.xu[at]mq.edu.au*
 
-
 ### Latest News
++ [May, 2024] We are grateful to the support from ***Gemma Academic Program Google Cloud Platform Credit Award***!
 + [Apr, 2024] Our paper: **"SEEP: Training Dynamics Grounds Latent Representation Search for Mitigating Backdoor Poisoning Attacks"** is accepted to Transaction of ACL (TACL)! Congrats to Xuanli and all co-authors!
-+ [Apr, 2024] We are grateful to the support from *OpenAI's Researcher Access Program*!
++ [Apr, 2024] We are grateful to the support from ***OpenAI's Researcher Access Program***!
 + [Apr, 2024] Our tutorial: **"A Copyright War: Authentication for Large Language Models"** is accepted to IJCAI 2024 (<span style="color:blue">Tutorial</span>). See you in Korea!
 + [Mar, 2024] **"Backdoor Attacks on Multilingual Machine Translation"** is accepted to NAACL, the main conference. Congratulations to Jun!
 + [Mar, 2024] I am honored to have been appointed as an honorary fellow at the University of Melbourne! PhD and MRes applicants to both [MQ](https://www.mq.edu.au/research/phd-and-research-degrees/how-to-apply/scholarship-opportunities) and [UoM](https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships) are welcomed.
@@ -31,9 +31,9 @@ If you're passionate about these research topics, I would love to hear your thou
 + [Sep, 2023] I am honored to be awarded **DAAD Net-AI fellowship**, visiting University of Bonn and Leuphana University of Luneburg.
 + [Jul, 2023] **"Fingerprint Attack: Client De-Anonymization in Federated Learning"** is accepted to ECAI 2023 (with acceptance rate 24%).
 + [May, 2023] **"Rethinking Round-Trip Translation for Machine Translation Evaluation"** is accepted to Findings of ACL 2023. 
-+ [Apr, 2023] I will serve as Publication Chair at [**ALTA 2023**](https://alta2023.alta.asn.au).
 
-<!-- + [Feb, 2023] I will be teaching **'Text Analytics for Business'** (BUSA90543) this winter semester.
+<!-- + [Apr, 2023] I will serve as Publication Chair at [**ALTA 2023**](https://alta2023.alta.asn.au).
++ [Feb, 2023] I will be teaching **'Text Analytics for Business'** (BUSA90543) this winter semester.
 + [Feb, 2023] **'Security Challenges in Natural Language Processing Models'** is accepted to EMNLP 2023 (<span style="color:blue">Tutorial</span>). See you in Singapore!
 + [Jan, 2023] One paper **'Humanly Certifying Superhuman Classifiers'** is accepted to ICLR'23 (<span style="color:red">spotlight, notable-top-25%</span>). If you would like to certify a 'superhuman' classifier, check our latest paper.
 + [Jan, 2023] Congrats to Yujin and Terry! **'Training-Free Lexical Backdoor attacks on Language Models'** is accepted to WWW'23 (<span style="color:blue">oral, acceptance rate 19.2%</span>). -->

@@ -14,6 +14,7 @@ If you're passionate about these research topics, I would love to hear your thou
 *Email: qiongkai.xu[at]mq.edu.au*
 
 ### Latest News
++ [May, 2024] Two papers on "*Embedding-as-a-Service Watermarking*" and "*LLM backdoor defense*" are accepted to ACL!
 + [May, 2024] We are grateful to the support from ***Gemma Academic Program Google Cloud Platform Credit Award***!
 + [Apr, 2024] Our paper: **"SEEP: Training Dynamics Grounds Latent Representation Search for Mitigating Backdoor Poisoning Attacks"** is accepted to Transaction of ACL (TACL)! Congrats to Xuanli and all co-authors!
 + [Apr, 2024] We are grateful to the support from ***OpenAI's Researcher Access Program***!

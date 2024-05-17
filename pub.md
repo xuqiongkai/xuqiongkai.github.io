@@ -9,6 +9,18 @@ feature_text: |
 A complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Qiongkai-Xu/3101288)]
 
 ### To Appear
++ [**WARDEN: Multi-Directional Backdoor Watermarks for Embedding-as-a-Service Copyright Protection**](https://arxiv.org/pdf/2403.01472)\
+Anudeex Shetty, Yue Teng, Ke He, Qiongkai Xu\
+*<span style="color:gray">(Accepted to ACL 2024)</span>.*
+
++ [**Here's a Free Lunch: Sanitizing Backdoored Models with Model Merge**](https://arxiv.org/pdf/2402.19334)\
+Ansh Arora, Xuanli He, Maximilian Mozes, Srinibas Swain, Mark Dras, Qiongkai Xu\
+*<span style="color:gray">(Accepted to Findings-ACL 2024)</span>.*
+
++ [**SEEP: Training Dynamics Grounds Latent Representation Search for Mitigating Backdoor Poisoning Attacks**]()\
+Xuanli He, Qiongkai Xu, Jun Wang, Benjamin I. P. Rubinstein, Trevor Cohn\
+*<span style="color:gray">(Accepted to Transaction of ACL and to be presented at ACL 2024)</span>.*
+
 
 + [**Backdoor Attacks on Multilingual Machine Translation**](https://arxiv.org/pdf/2404.02393.pdf)\
 Jun Wang, Qiongkai Xu, Xuanli He, Benjamin I. P. Rubinstein, Trevor Cohn\

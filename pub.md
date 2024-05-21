@@ -6,15 +6,14 @@ feature_text: |
   *by ChatGPT*
 ---
 
-A complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Qiongkai-Xu/3101288)]
-
+A complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Qiongkai-Xu/3101288)] (Equal contribution* and corresponding author<sup>&#x2709;</sup>)
 ### To Appear
 + [**WARDEN: Multi-Directional Backdoor Watermarks for Embedding-as-a-Service Copyright Protection**](https://arxiv.org/pdf/2403.01472)\
-Anudeex Shetty, Yue Teng, Ke He, Qiongkai Xu\
+Anudeex Shetty, Yue Teng, Ke He, Qiongkai Xu<sup>&#x2709;</sup>\
 *<span style="color:gray">(Accepted to ACL 2024)</span>.*
 
 + [**Here's a Free Lunch: Sanitizing Backdoored Models with Model Merge**](https://arxiv.org/pdf/2402.19334)\
-Ansh Arora, Xuanli He, Maximilian Mozes, Srinibas Swain, Mark Dras, Qiongkai Xu\
+Ansh Arora, Xuanli He, Maximilian Mozes, Srinibas Swain, Mark Dras, Qiongkai Xu<sup>&#x2709;</sup>\
 *<span style="color:gray">(Accepted to Findings-ACL 2024)</span>.*
 
 + [**SEEP: Training Dynamics Grounds Latent Representation Search for Mitigating Backdoor Poisoning Attacks**](https://arxiv.org/pdf/2405.11575)\
@@ -27,7 +26,7 @@ Jun Wang, Qiongkai Xu, Xuanli He, Benjamin I. P. Rubinstein, Trevor Cohn\
 *<span style="color:gray">(Accepted to NAACL 2024)</span>.*
 
 + [**Attacks on Third-Party APIs of Large Language Models**](https://openreview.net/pdf?id=z48GQEpAqH)\
-Wanru Zhao, Vidit Khazanchi, Haodi Xing, Xuanli He, Qiongkai Xu, Nicholas Donald Lane\
+Wanru Zhao, Vidit Khazanchi, Haodi Xing, Xuanli He, Qiongkai Xu<sup>&#x2709;</sup>, Nicholas Donald Lane\
 *<span style="color:gray">(Accepted to SeT-LLM@ICLR 2024)</span>.*
 
 
@@ -56,7 +55,7 @@ Qiongkai Xu, Trevor Cohn, Olga Ohrimenko\
 *<span style="color:gray"> In Proceedings of the 26th European Conference on Artificial Intelligence (ECAI), Oct 2023</span>.*
 
 + [**Rethinking Round-Trip Translation for Machine Translation Evaluation**](https://aclanthology.org/2023.findings-acl.22/)\
-Terry Yue Zhuo, Qiongkai Xu, Xuanli He, Trevor Cohn\
+Terry Yue Zhuo, Qiongkai Xu<sup>&#x2709;</sup>, Xuanli He, Trevor Cohn\
 *<span style="color:gray"> In Findings of the Association for Computational Linguistics: ACL (Findings-ACL), Jul 2023 </span>.*
 
 + [**Humanly Certifying Superhuman Classifiers**](https://openreview.net/forum?id=X5ZMzRYqUjB)\
@@ -65,7 +64,7 @@ Qiongkai Xu, Christian Walder, Chenchen Xu\
 <span style="color:blue">Spotlight, notable-top-25%</span> 
 
 + [**Training-Free Lexical Backdoor Attacks on Language Models**](https://dl.acm.org/doi/abs/10.1145/3543507.3583348)\
-Yujin Huang, Terry Zhuo Yue, Qiongkai Xu, Han Hu, Xingliang Yuan, Chunyang Chen\
+Yujin Huang, Terry Zhuo Yue, Qiongkai Xu<sup>&#x2709;</sup>, Han Hu, Xingliang Yuan<sup>&#x2709;</sup>, Chunyang Chen\
 *<span style="color:gray">In Proceedings of the ACM Web Conference 2023 (WWW), Apr 2023</span>.*
 
 
@@ -80,7 +79,7 @@ Zhuang Li, Lizhen Qu, Qiongkai Xu, Tongtong Wu, Tianyang Zhan, Gholamreza Haffar
 
 
 + [**CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks**](https://openreview.net/forum?id=L7P3IvsoUXY)\
-Xuanli He, Qiongkai Xu, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia\
+Xuanli He*, Qiongkai Xu*, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia\
 *<span style="color:gray">In Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS), Nov 2022</span>.*
 
 + [**Student Surpasses Teacher: Imitation Attack for Black-Box NLP APIs**](https://aclanthology.org/2022.coling-1.251/)\
@@ -88,7 +87,7 @@ Qiongkai Xu, Xuanli He, Lingjuan Lyu, Lizhen Qu, Gholamreza Haffari\
 *<span style="color:gray">In Proceedings of the 29th International Conference on Computational Linguistics (COLING), Oct 2022</span>.*
 
 + [**Protecting Intellectual Property of Language Generation APIs with Lexical Watermark**](https://arxiv.org/pdf/2112.02701.pdf)\
-Xuanli He, Qiongkai Xu, Lingjuan Lyu, Fangzhao Wu, Chenguang Wang\
+Xuanli He, Qiongkai Xu<sup>&#x2709;</sup>, Lingjuan Lyu<sup>&#x2709;</sup>, Fangzhao Wu, Chenguang Wang\
 *<span style="color:gray">In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Feb 2022</span>.*
 
 ### 2021

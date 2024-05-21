@@ -6,7 +6,8 @@ feature_text: |
   *by ChatGPT*
 ---
 
-A complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Qiongkai-Xu/3101288)] (Equal contribution* and corresponding author<sup>&#x2709;</sup>)
+A complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Qiongkai-Xu/3101288)]
+
 ### To Appear
 + [**WARDEN: Multi-Directional Backdoor Watermarks for Embedding-as-a-Service Copyright Protection**](https://arxiv.org/pdf/2403.01472)\
 Anudeex Shetty, Yue Teng, Ke He, Qiongkai Xu<sup>&#x2709;</sup>\
@@ -29,7 +30,7 @@ Jun Wang, Qiongkai Xu, Xuanli He, Benjamin I. P. Rubinstein, Trevor Cohn\
 Wanru Zhao, Vidit Khazanchi, Haodi Xing, Xuanli He, Qiongkai Xu<sup>&#x2709;</sup>, Nicholas Donald Lane\
 *<span style="color:gray">(Accepted to SeT-LLM@ICLR 2024)</span>.*
 
-
+*Corresponding author* (&#x2709;</sup>) and *Equal contribution* (*)
 
 ### 2023
 

@@ -17,16 +17,16 @@ Anudeex Shetty, Yue Teng, Ke He, Qiongkai Xu\
 Ansh Arora, Xuanli He, Maximilian Mozes, Srinibas Swain, Mark Dras, Qiongkai Xu\
 *<span style="color:gray">(Accepted to Findings-ACL 2024)</span>.*
 
-+ [**SEEP: Training Dynamics Grounds Latent Representation Search for Mitigating Backdoor Poisoning Attacks**]()\
++ [**SEEP: Training Dynamics Grounds Latent Representation Search for Mitigating Backdoor Poisoning Attacks**](https://arxiv.org/pdf/2405.11575)\
 Xuanli He, Qiongkai Xu, Jun Wang, Benjamin I. P. Rubinstein, Trevor Cohn\
 *<span style="color:gray">(Accepted to Transaction of ACL and to be presented at ACL 2024)</span>.*
 
 
-+ [**Backdoor Attacks on Multilingual Machine Translation**](https://arxiv.org/pdf/2404.02393.pdf)\
++ [**Backdoor Attacks on Multilingual Machine Translation**](https://arxiv.org/pdf/2404.02393)\
 Jun Wang, Qiongkai Xu, Xuanli He, Benjamin I. P. Rubinstein, Trevor Cohn\
 *<span style="color:gray">(Accepted to NAACL 2024)</span>.*
 
-+ [**Attacks on Third-Party APIs of Large Language Models**]()\
++ [**Attacks on Third-Party APIs of Large Language Models**](https://openreview.net/pdf?id=z48GQEpAqH)\
 Wanru Zhao, Vidit Khazanchi, Haodi Xing, Xuanli He, Qiongkai Xu, Nicholas Donald Lane\
 *<span style="color:gray">(Accepted to SeT-LLM@ICLR 2024)</span>.*
 

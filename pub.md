@@ -30,7 +30,7 @@ Jun Wang, Qiongkai Xu, Xuanli He, Benjamin I. P. Rubinstein, Trevor Cohn\
 Wanru Zhao, Vidit Khazanchi, Haodi Xing, Xuanli He, Qiongkai Xu<sup>&#x2709;</sup>, Nicholas Donald Lane\
 *<span style="color:gray">(Accepted to SeT-LLM@ICLR 2024)</span>.*
 
-*Corresponding author* (&#x2709;) and *Equal contribution* (&ast;)
+*Corresponding author* (&#x2709;) and *Equal contribution* (&#xFE61;)
 
 ### 2023
 
@@ -80,7 +80,7 @@ Zhuang Li, Lizhen Qu, Qiongkai Xu, Tongtong Wu, Tianyang Zhan, Gholamreza Haffar
 
 
 + [**CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks**](https://openreview.net/forum?id=L7P3IvsoUXY)\
-Xuanli He&ast;, Qiongkai Xu&ast;, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia\
+Xuanli He<sup>&#xFE61;</sup>, Qiongkai Xu<sup>&#xFE61;</sup>, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia\
 *<span style="color:gray">In Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS), Nov 2022</span>.*
 
 + [**Student Surpasses Teacher: Imitation Attack for Black-Box NLP APIs**](https://aclanthology.org/2022.coling-1.251/)\

@@ -30,7 +30,7 @@ Jun Wang, Qiongkai Xu, Xuanli He, Benjamin I. P. Rubinstein, Trevor Cohn\
 Wanru Zhao, Vidit Khazanchi, Haodi Xing, Xuanli He, Qiongkai Xu<sup>&#x2709;</sup>, Nicholas Donald Lane\
 *<span style="color:gray">(Accepted to SeT-LLM@ICLR 2024)</span>.*
 
-*Corresponding author* (&#x2709;</sup>) and *Equal contribution* (&ast;)
+*Corresponding author* (&#x2709;) and *Equal contribution* (&ast;)
 
 ### 2023
 

@@ -14,6 +14,7 @@ If you're passionate about these research topics, I would love to hear your thou
 *Email: qiongkai.xu[at]mq.edu.au*
 
 ### Latest News
++ [Jun, 2024] We are grateful for multiple internal and external fundings! Opportunities will soon be available for PhD candidates, and Postdoctoral fellows. We look forward to collaborating with talented and enthusiastic individuals on challenges related to AI safety!
 + [May, 2024] Two papers on "*Embedding-as-a-Service Watermarking*" and "*LLM backdoor defense*" are accepted to ACL!
 + [May, 2024] We are grateful to the support from ***Gemma Academic Program Google Cloud Platform Credit Award***!
 + [Apr, 2024] Our paper: **"SEEP: Training Dynamics Grounds Latent Representation Search for Mitigating Backdoor Poisoning Attacks"** is accepted to Transaction of ACL (TACL)! Congrats to Xuanli and all co-authors!
@@ -31,9 +32,11 @@ If you're passionate about these research topics, I would love to hear your thou
 + [Oct, 2023] **"Boot and Switch: Alternating Distillation for Zero-Shot Dense Retrieval"** is accepted to Findings of EMNLP 2023. Congratulations to Fan!
 + [Sep, 2023] I am honored to be awarded **DAAD Net-AI fellowship**, visiting University of Bonn and Leuphana University of Luneburg.
 + [Jul, 2023] **"Fingerprint Attack: Client De-Anonymization in Federated Learning"** is accepted to ECAI 2023 (with acceptance rate 24%).
-+ [May, 2023] **"Rethinking Round-Trip Translation for Machine Translation Evaluation"** is accepted to Findings of ACL 2023. 
 
-<!-- + [Apr, 2023] I will serve as Publication Chair at [**ALTA 2023**](https://alta2023.alta.asn.au).
+
+<!-- 
++ [May, 2023] **"Rethinking Round-Trip Translation for Machine Translation Evaluation"** is accepted to Findings of ACL 2023. 
++ [Apr, 2023] I will serve as Publication Chair at [**ALTA 2023**](https://alta2023.alta.asn.au).
 + [Feb, 2023] I will be teaching **'Text Analytics for Business'** (BUSA90543) this winter semester.
 + [Feb, 2023] **'Security Challenges in Natural Language Processing Models'** is accepted to EMNLP 2023 (<span style="color:blue">Tutorial</span>). See you in Singapore!
 + [Jan, 2023] One paper **'Humanly Certifying Superhuman Classifiers'** is accepted to ICLR'23 (<span style="color:red">spotlight, notable-top-25%</span>). If you would like to certify a 'superhuman' classifier, check our latest paper.

@@ -14,8 +14,8 @@ If you're passionate about these research topics, I would love to hear your thou
 *Email: qiongkai.xu[at]mq.edu.au*
 
 ### Latest News
-+ [Jun, 2024] We are grateful for multiple internal and external fundings! Opportunities will soon be available for PhD candidates, and Postdoctoral fellows. We look forward to collaborating with talented and enthusiastic individuals on challenges related to AI safety!
-+ [Jun, 2024] I am honored to serve as a Publication Chair on the Steering Committee for ACL 2025!
++ [Jun, 2024] We are grateful for multiple internal and external fundings! Opportunities will soon be available for PhD candidates, and Postdoctoral fellows. We look forward to collaborating with talented and enthusiastic individuals on challenges related to *<u>AI safety</u>*!
++ [Jun, 2024] I am honored to serve as a **Publication Chair** on the Steering Committee for **ACL 2025**!
 + [May, 2024] Two papers on "*Embedding-as-a-Service Watermarking*" and "*LLM backdoor defense*" are accepted to ACL!
 + [May, 2024] We are grateful to the support from ***Gemma Academic Program Google Cloud Platform Credit Award***!
 + [Apr, 2024] Our paper: **"SEEP: Training Dynamics Grounds Latent Representation Search for Mitigating Backdoor Poisoning Attacks"** is accepted to Transaction of ACL (TACL)! Congrats to Xuanli and all co-authors!

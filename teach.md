@@ -22,7 +22,7 @@ feature_text: |
 
 
 + **A Copyright War: Authentication for Large Language Models** (IJCAI Tutorial) [[Slides]](./files/tutorial%20IJCAI2024.pdf)
-    + To appear at the 33rd International Joint Conference on Artificial Intelligence @ Jeju
+    + The 33rd International Joint Conference on Artificial Intelligence @ Jeju
     + Co-lectured with Xuanli He
 
 ### 2023

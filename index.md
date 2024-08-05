@@ -14,6 +14,7 @@ If you're passionate about these research topics, I would love to hear your thou
 *Email: qiongkai.xu[at]mq.edu.au*
 
 ### Latest News
++ [Aug 2024] Our Tutorial on "A Copyright War: Authentication for Large Language Models" in IJCAI 2024 is available [(pdf)](./files/tutorial%20IJCAI2024.pdf).
 + [Jun, 2024] We are grateful for multiple internal and external fundings! Opportunities will soon be available for PhD candidates, and Postdoctoral fellows. We look forward to collaborating with talented and enthusiastic individuals on challenges related to *<u>AI safety</u>*!
 + [Jun, 2024] I am honored to serve as a **Publication Chair** on the Steering Committee for **ACL 2025**!
 + [May, 2024] Two papers on "*Embedding-as-a-Service Watermarking*" and "*LLM backdoor defense*" are accepted to ACL!

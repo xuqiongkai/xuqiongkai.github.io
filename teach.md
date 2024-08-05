@@ -21,7 +21,7 @@ feature_text: |
    + Supervised 6 students
 
 
-+ **A Copyright War: Authentication for Large Language Models** (IJCAI Tutorial) [(Slides)](./files/tutorial%20IJCAI2024.pdf)
++ **A Copyright War: Authentication for Large Language Models** (IJCAI Tutorial) [[Slides]](../files/tutorial%20IJCAI2024.pdf)
     + The 33rd International Joint Conference on Artificial Intelligence @ Jeju
     + Co-lectured with Xuanli He
 
@@ -30,7 +30,7 @@ feature_text: |
     + Melbourne Business School, University of Melbourne
     + Co-lectured with Jay Han Lau
 
-+ **Security Challenges in Natural Language Processing Models** (EMNLP Tutorial) [(Paper)](https://aclanthology.org/2023.emnlp-tutorial.2/) [(Website)](https://emnlp2023-nlp-security.github.io/)
++ **Security Challenges in Natural Language Processing Models** (EMNLP Tutorial) [[Paper]](https://aclanthology.org/2023.emnlp-tutorial.2/) [[Website]](https://emnlp2023-nlp-security.github.io/)
     + The 2023 Conference on Empirical Methods in Natural Language Processing @ Singapore
     + Co-lectured with Xuanli He
 

@@ -8,29 +8,37 @@ feature_text: |
 
 A complete list of publications: [[Google Scholar](https://scholar.google.com.au/citations?user=wCer2WUAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Qiongkai-Xu/3101288)]
 
+*Corresponding author* (&#x2709;) and *Equal contribution* (&#xFE61;)
+
 ### To Appear
-+ [**WARDEN: Multi-Directional Backdoor Watermarks for Embedding-as-a-Service Copyright Protection**](https://arxiv.org/pdf/2403.01472)\
-Anudeex Shetty, Yue Teng, Ke He, Qiongkai Xu<sup>&#x2709;</sup>\
-*<span style="color:gray">(Accepted to ACL 2024)</span>.*
++ [**Generative Models are Self-Watermarked: Declaring Model Authentication through Re-Generation**](https://arxiv.org/abs/2402.16889)\
+Aditya Desu, Xuanli He, Qiongkai Xu<sup>&#x2709;</sup>, Wei Lu\
+*<span style="color:gray"> Transactions on Machine Learning Research (TMLR), accept with minor revision.</span>.*
 
-+ [**Here's a Free Lunch: Sanitizing Backdoored Models with Model Merge**](https://arxiv.org/pdf/2402.19334)\
-Ansh Arora, Xuanli He, Maximilian Mozes, Srinibas Swain, Mark Dras, Qiongkai Xu<sup>&#x2709;</sup>\
-*<span style="color:gray">(Accepted to Findings-ACL 2024)</span>.*
+### 2024
 
-+ [**SEEP: Training Dynamics Grounds Latent Representation Search for Mitigating Backdoor Poisoning Attacks**](https://arxiv.org/pdf/2405.11575)\
++ [**SEEP: Training Dynamics Grounds Latent Representation Search for Mitigating Backdoor Poisoning Attacks**](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00684/124258/SEEP-Training-Dynamics-Grounds-Latent)\
 Xuanli He, Qiongkai Xu, Jun Wang, Benjamin I. P. Rubinstein, Trevor Cohn\
-*<span style="color:gray">(Accepted to Transaction of ACL and to be presented at ACL 2024)</span>.*
+*<span style="color:gray">Transactions of the Association for Computational Linguistics (TACL), Sep 2024, and presented in ACL</span>.*
+
++ [**WARDEN: Multi-Directional Backdoor Watermarks for Embedding-as-a-Service Copyright Protection**](https://aclanthology.org/2024.acl-long.725)\
+Anudeex Shetty, Yue Teng, Ke He, Qiongkai Xu<sup>&#x2709;</sup>\
+*<span style="color:gray">In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL), Aug 2024</span>.*
+
++ [**Here's a Free Lunch: Sanitizing Backdoored Models with Model Merge**](https://aclanthology.org/2024.findings-acl.894)\
+Ansh Arora, Xuanli He, Maximilian Mozes, Srinibas Swain, Mark Dras, Qiongkai Xu<sup>&#x2709;</sup>\
+*<span style="color:gray">In Findings of the Association for Computational Linguistics: ACL 2024 (Findings-ACL), Aug 2024</span>.*
 
 
-+ [**Backdoor Attacks on Multilingual Machine Translation**](https://arxiv.org/pdf/2404.02393)\
++ [**Backdoor Attacks on Multilingual Machine Translation**](https://aclanthology.org/2024.naacl-long.254)\
 Jun Wang, Qiongkai Xu, Xuanli He, Benjamin I. P. Rubinstein, Trevor Cohn\
-*<span style="color:gray">(Accepted to NAACL 2024)</span>.*
+*<span style="color:gray">In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL), Jun 2024</span>.*
 
 + [**Attacks on Third-Party APIs of Large Language Models**](https://openreview.net/pdf?id=z48GQEpAqH)\
 Wanru Zhao, Vidit Khazanchi, Haodi Xing, Xuanli He, Qiongkai Xu<sup>&#x2709;</sup>, Nicholas Donald Lane\
-*<span style="color:gray">(Accepted to SeT-LLM@ICLR 2024)</span>.*
+*<span style="color:gray">In ICLR 2024 Workshop on Secure and Trustworthy Large Language Models (SeT-LLM @ ICLR), May 2024</span>.*
 
-*Corresponding author* (&#x2709;) and *Equal contribution* (&#xFE61;)
+
 
 ### 2023
 

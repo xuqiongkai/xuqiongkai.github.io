@@ -17,7 +17,7 @@ feature_text: |
    + Department of Philosophy, Macquarie
    + Guest Lecturer
 
-+ **Major Project (Internal Project), COMP8851** (S2)
++ **Major Project (Internal Project on NLP & Security), COMP8851** (S2)
    + Supervised 6 students
 
 

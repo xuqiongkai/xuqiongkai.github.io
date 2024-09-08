@@ -13,13 +13,13 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 ### To Appear
 + [**Generative Models are Self-Watermarked: Declaring Model Authentication through Re-Generation**](https://arxiv.org/abs/2402.16889)\
 Aditya Desu, Xuanli He, Qiongkai Xu<sup>&#x2709;</sup>, Wei Lu\
-*<span style="color:gray"> Transactions on Machine Learning Research (TMLR), accept with minor revision.</span>.*
+*<span style="color:gray"> Transactions on Machine Learning Research (TMLR), accept with minor revision</span>.*
 
 ### 2024
 
 + [**SEEP: Training Dynamics Grounds Latent Representation Search for Mitigating Backdoor Poisoning Attacks**](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00684/124258/SEEP-Training-Dynamics-Grounds-Latent)\
 Xuanli He, Qiongkai Xu, Jun Wang, Benjamin I. P. Rubinstein, Trevor Cohn\
-*<span style="color:gray">Transactions of the Association for Computational Linguistics (TACL), Sep 2024, and presented in ACL</span>.*
+*<span style="color:gray">Transactions of the Association for Computational Linguistics (TACL), Sep 2024, presented in ACL</span>.*
 
 + [**WARDEN: Multi-Directional Backdoor Watermarks for Embedding-as-a-Service Copyright Protection**](https://aclanthology.org/2024.acl-long.725)\
 Anudeex Shetty, Yue Teng, Ke He, Qiongkai Xu<sup>&#x2709;</sup>\

@@ -10,12 +10,14 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 
 *Corresponding author* (&#x2709;) and *Equal contribution* (&#xFE61;)
 
-### To Appear
-+ [**Generative Models are Self-Watermarked: Declaring Model Authentication through Re-Generation**](https://arxiv.org/abs/2402.16889)\
-Aditya Desu, Xuanli He, Qiongkai Xu<sup>&#x2709;</sup>, Wei Lu\
-*<span style="color:gray"> Transactions on Machine Learning Research (TMLR), accept with minor revision</span>.*
+<!-- ### To Appear -->
+
 
 ### 2024
+
++ [**Generative Models are Self-Watermarked: Declaring Model Authentication through Re-Generation**](https://openreview.net/pdf?id=LUHmWDydue)\
+Aditya Desu, Xuanli He, Qiongkai Xu<sup>&#x2709;</sup>, Wei Lu\
+*<span style="color:gray"> Transactions on Machine Learning Research (TMLR), Sep 2024</span>.*
 
 + [**SEEP: Training Dynamics Grounds Latent Representation Search for Mitigating Backdoor Poisoning Attacks**](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00684/124258/SEEP-Training-Dynamics-Grounds-Latent)\
 Xuanli He, Qiongkai Xu, Jun Wang, Benjamin I. P. Rubinstein, Trevor Cohn\

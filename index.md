@@ -14,6 +14,7 @@ If you're passionate about these research topics, I would love to hear your thou
 *Email: qiongkai.xu[at]mq.edu.au*
 
 ### Latest News
++ [Sep, 2024] **"Seeing the Forest through the Trees: Data Leakage from Partial Transformer Gradients"** is accepted to EMNLP 2024. Congratulations to Weijun and team!
 + [Sep, 2024] I am fortunate to have won the **Research Pitching Session** at Macquarie University for the second time!
 + [Sep, 2024] Our paper: **"Generative Models are Self-Watermarked: Declaring Model Authentication through Re-Generation"** is accepted to Transactions on Machine Learning Research (TMLR)! Congrats to Aditya and all co-authors!
 + [Aug 2024] Our Tutorial on **"A Copyright War: Authentication for Large Language Models"** in IJCAI 2024 is available [(pdf)](./files/tutorial%20IJCAI2024.pdf).

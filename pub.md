@@ -11,7 +11,9 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 *Corresponding author* (&#x2709;) and *Equal contribution* (&#xFE61;)
 
 <!-- ### To Appear -->
-
++ [**Seeing the Forest through the Trees: Data Leakage from Partial Transformer Gradients**](https://arxiv.org/abs/2406.00999)\
+Weijun Li, Qiongkai Xu, Mark Dras\
+*<span style="color:gray"> Accapted to EMNLP 2024</span>.*
 
 ### 2024
 

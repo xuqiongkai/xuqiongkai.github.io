@@ -20,6 +20,10 @@ feature_text: |
 + **Major Project (Internal Project on NLP & Security), COMP8851** (S2)
    + Supervised 6 students
 
++ **AI for Text and Vision, COMP3420/6420** (S2)
+   + School of Computing, FSE, Macquarie University
+   + Guest Lecturer
+
 
 + **A Copyright War: Authentication for Large Language Models** (IJCAI Tutorial) [[Slides]](../files/tutorial%20IJCAI2024.pdf)
     + The 33rd International Joint Conference on Artificial Intelligence @ Jeju
@@ -36,7 +40,7 @@ feature_text: |
 
 ### 2020
 + **Document Analysis, COMP4650/COMP6490** (Semester 2)
-    + Research School of Computer Science, Australian National Unviersity
+    + School of Computing, Australian National University
     + Co-lectured with Alexsandar Antic
     + Preparing course material for two new sections, Machine Learning for NLP and NLP in Practice.
 

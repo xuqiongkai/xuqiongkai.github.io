@@ -55,6 +55,10 @@ If you're passionate about these research topics, I would love to hear your thou
 
 ### Selected Publications
 
++ [**Generative Models are Self-Watermarked: Declaring Model Authentication through Re-Generation**](https://openreview.net/pdf?id=LUHmWDydue), Aditya Desu, Xuanli He, Qiongkai Xu, Wei Lu. *<span style="color:gray"> Transactions on Machine Learning Research (TMLR), Sep 2024</span>.*
+
++ [**Here's a Free Lunch: Sanitizing Backdoored Models with Model Merge**](https://aclanthology.org/2024.findings-acl.894)\, Ansh Arora, Xuanli He, Maximilian Mozes, Srinibas Swain, Mark Dras, Qiongkai Xu. *<span style="color:gray">In Findings of the Association for Computational Linguistics: ACL 2024 (Findings-ACL), Aug 2024</span>.*
+
 + [**Security Challenges in Natural Language Processing Models**](https://aclanthology.org/2023.emnlp-tutorial.2/). Qiongkai Xu, Xuanli He.
 *<span style="color:gray">In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP): Tutorial Abstracts, Dec 2023</span>.*
 

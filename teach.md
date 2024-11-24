@@ -5,24 +5,40 @@ feature_text: |
   # ***Empowering minds, shaping futures.***
   *by ChatGPT*
 ---
+
+### 2025
++ **Mining Unstructured Data, COMP8230** (S1)
+    + School of Computing, FSE, Macquarie University
+    + Co-lectured with Yu Zhang and Jia Wu
+
++ **Big Data, COMP6210/COMP3210** (S1)
+    + School of Computing, FSE, Macquarie University
+    + Co-lectured with Guanfeng Liu
+
++ **Advanced Natural Language Processing, COMP8420** (S1)
+    + School of Computing, FSE, Macquarie University
+    + Co-lectured with Longbing Cao
+
 ### 2024
 + **Advanced Natural Language Processing, COMP8420** (S1)
     + School of Computing, FSE, Macquarie University
     + Co-lectured with Greg Backer
 
 + **Major Project (Internal Project), COMP8851** (S1)
-   + Supervised 4 students
+    + School of Computing, FSE, Macquarie University
+    + Supervised 4 students
 
 + **Rights, Responsibilities, and AI, PHIL8400** (S2)
-   + Department of Philosophy, Macquarie
-   + Guest Lecturer
+    + Department of Philosophy, Macquarie
+    + Guest Lecturer
 
 + **Major Project (Internal Project on NLP & Security), COMP8851** (S2)
-   + Supervised 6 students
+    + School of Computing, FSE, Macquarie University
+    + Supervised 6 students
 
 + **AI for Text and Vision, COMP3420/6420** (S2)
-   + School of Computing, FSE, Macquarie University
-   + Guest Lecturer
+    + School of Computing, FSE, Macquarie University
+    + Guest Lecturer
 
 
 + **A Copyright War: Authentication for Large Language Models** (IJCAI Tutorial) [[Slides]](../files/tutorial%20IJCAI2024.pdf)

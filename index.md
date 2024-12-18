@@ -14,7 +14,7 @@ If you're passionate about these research topics, I would love to hear your thou
 *Email: qiongkai.xu[at]mq.edu.au*
 
 ### Latest News
-+ [Dec, 2024] Congratulations to my students, Anudeex and Zihan, granted prestegious scholarships, CIS PhD scholarship and DFCRC scholarship respectively!
++ [Dec, 2024] Congratulations to my students, Anudeex and Zihan, granted prestegious scholarships, *CIS PhD scholarship* and *DFCRC scholarship* respectively!
 + [Sep, 2024] **"Seeing the Forest through the Trees: Data Leakage from Partial Transformer Gradients"** is accepted to EMNLP 2024. Congratulations to Weijun and team!
 + [Sep, 2024] I am fortunate to have won the **Research Pitching Session** at Macquarie University for the second time!
 + [Sep, 2024] Our paper: **"Generative Models are Self-Watermarked: Declaring Model Authentication through Re-Generation"** is accepted to Transactions on Machine Learning Research (TMLR)! Congrats to Aditya and all co-authors!

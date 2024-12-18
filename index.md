@@ -14,6 +14,7 @@ If you're passionate about these research topics, I would love to hear your thou
 *Email: qiongkai.xu[at]mq.edu.au*
 
 ### Latest News
++ [Dec, 2024] Congratulations to my students, Anudeex and Zihan, granted prestegious scholarships, CIS PhD scholarship and DFCRC scholarship respectively!
 + [Sep, 2024] **"Seeing the Forest through the Trees: Data Leakage from Partial Transformer Gradients"** is accepted to EMNLP 2024. Congratulations to Weijun and team!
 + [Sep, 2024] I am fortunate to have won the **Research Pitching Session** at Macquarie University for the second time!
 + [Sep, 2024] Our paper: **"Generative Models are Self-Watermarked: Declaring Model Authentication through Re-Generation"** is accepted to Transactions on Machine Learning Research (TMLR)! Congrats to Aditya and all co-authors!
@@ -30,6 +31,8 @@ If you're passionate about these research topics, I would love to hear your thou
 + [Mar, 2024] **"Attacks on Third-Party APIs of Large Language Models"** is accepted to SeT-LLM@ICLR 2024.
 + [Feb, 2024] I am honored to serve as an **Action Editor / Area Chair** for **ACL Rolling Review**! 
 + [Dec, 2023] Our EMNLP'23 tutorial on [**Security Challenges in NLP models**](https://aclanthology.org/2023.emnlp-tutorial.2.pdf) are now available!
+
+<!-- 
 + [Nov, 2023] I am fortunate to have won the **Research Pitching Session** at Macquarie University! 
 + [Nov, 2023] I am honored to serve as an **Area Chair** for **LREC-COLING 2024**! 
 + [Oct, 2023] I am excited to become a **lecturer** (a.k.a assitant professor) at Macquarie University!
@@ -37,9 +40,6 @@ If you're passionate about these research topics, I would love to hear your thou
 + [Oct, 2023] **"Boot and Switch: Alternating Distillation for Zero-Shot Dense Retrieval"** is accepted to Findings of EMNLP 2023. Congratulations to Fan!
 + [Sep, 2023] I am honored to be awarded **DAAD Net-AI fellowship**, visiting University of Bonn and Leuphana University of Luneburg.
 + [Jul, 2023] **"Fingerprint Attack: Client De-Anonymization in Federated Learning"** is accepted to ECAI 2023 (with acceptance rate 24%).
-
-
-<!-- 
 + [May, 2023] **"Rethinking Round-Trip Translation for Machine Translation Evaluation"** is accepted to Findings of ACL 2023. 
 + [Apr, 2023] I will serve as Publication Chair at [**ALTA 2023**](https://alta2023.alta.asn.au).
 + [Feb, 2023] I will be teaching **'Text Analytics for Business'** (BUSA90543) this winter semester.

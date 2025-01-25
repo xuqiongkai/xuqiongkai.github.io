@@ -11,7 +11,7 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 *Corresponding author* (&#x2709;) and *Equal contribution* (&#xFE61;)
 
 ### To Appear
-+ [C29] [**HEAL: Healthcare Emergency Assistants Leveraging \\ Large Language Models**]()\
++ [C29] [**HEAL: Healthcare Emergency Assistants Leveraging Large Language Models**]()\
 Zihan Zhu, Qiongkai Xu<sup>&#x2709;</sup>, Amin Beheshti\
 *<span style="color:gray">In Proceedings of the ACM Web Conference 2025 (WWW): System Demonstrations, Apr 2025</span>.*
 

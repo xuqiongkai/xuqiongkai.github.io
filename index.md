@@ -14,6 +14,7 @@ If you're passionate about these research topics, I would love to hear your thou
 *Email: qiongkai.xu[at]mq.edu.au*
 
 ### Latest News
++ [Jan, 2025] One demo paper on Emergency Healthcare has been accepted to WWW 2025! We look forward to discussing the project with you in Sydney!
 + [Dec, 2024] Congratulations to my students, Anudeex and Zihan, granted prestegious scholarships, *CIS PhD scholarship* and *DFCRC scholarship* respectively!
 + [Sep, 2024] **"Seeing the Forest through the Trees: Data Leakage from Partial Transformer Gradients"** is accepted to EMNLP 2024. Congratulations to Weijun and team!
 + [Sep, 2024] I am fortunate to have won the **Research Pitching Session** at Macquarie University for the second time!
@@ -30,9 +31,9 @@ If you're passionate about these research topics, I would love to hear your thou
 + [Mar, 2024] I am honored to have been appointed as an honorary fellow at the University of Melbourne! PhD and MRes applicants to both [MQ](https://www.mq.edu.au/research/phd-and-research-degrees/how-to-apply/scholarship-opportunities) and [UoM](https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships) are welcomed.
 + [Mar, 2024] **"Attacks on Third-Party APIs of Large Language Models"** is accepted to SeT-LLM@ICLR 2024.
 + [Feb, 2024] I am honored to serve as an **Action Editor / Area Chair** for **ACL Rolling Review**! 
-+ [Dec, 2023] Our EMNLP'23 tutorial on [**Security Challenges in NLP models**](https://aclanthology.org/2023.emnlp-tutorial.2.pdf) are now available!
 
 <!-- 
++ [Dec, 2023] Our EMNLP'23 tutorial on [**Security Challenges in NLP models**](https://aclanthology.org/2023.emnlp-tutorial.2.pdf) are now available!
 + [Nov, 2023] I am fortunate to have won the **Research Pitching Session** at Macquarie University! 
 + [Nov, 2023] I am honored to serve as an **Area Chair** for **LREC-COLING 2024**! 
 + [Oct, 2023] I am excited to become a **lecturer** (a.k.a assitant professor) at Macquarie University!

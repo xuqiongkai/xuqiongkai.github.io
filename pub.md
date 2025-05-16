@@ -22,7 +22,7 @@ Anudeex Shetty, Qiongkai Xu, Jey Han Lau\
 
 + [C30] [**TUBA: Cross-Lingual Transferability of Backdoor Attacks in LLMs with Instruction Tuning**](https://arxiv.org/pdf/2404.19597)\
 Xuanli He, Jun Wang, Qiongkai Xu, Pasquale Minervini, Pontus Stenetorp, Benjamin I. P. Rubinstein, Trevor Cohn\
-*<span style="color:gray">In Findings of the 63nd Annual Meeting of the Association for Computational Linguistics (ACL), July 2025</span>.*
+*<span style="color:gray">In Findings of the Association for Computational Linguistics: ACL 2025 (Findings-ACL), July 2025</span>.*
 
 + [C29] [**HEAL: Healthcare Emergency Assistants Leveraging Large Language Models**]()\
 Zihan Zhu, Qiongkai Xu<sup>&#x2709;</sup>, Amin Beheshti\

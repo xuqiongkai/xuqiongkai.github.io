@@ -11,6 +11,19 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 *Corresponding author* (&#x2709;) and *Equal contribution* (&#xFE61;)
 
 ### To Appear
+
++ [C32] [**ALGEN: Few-shot Inversion Attacks on Textual Embeddings using Alignment and Generation**](https://arxiv.org/pdf/2502.11308)\
+Yiyi Chen, Qiongkai Xu<sup>&#x2709;</sup>, Johannes Bjerva\
+*<span style="color:gray">In Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics (ACL), July 2025</span>.*
+
++ [C31] [**WET: Overcoming Paraphrasing Vulnerabilities in Embeddings-as-a-Service with Linear Transformation Watermarks**](https://arxiv.org/pdf/2409.04459)\
+Anudeex Shetty, Qiongkai Xu, Jey Han Lau\
+*<span style="color:gray">In Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics (ACL), July 2025</span>.*
+
++ [C30] [**TUBA: Cross-Lingual Transferability of Backdoor Attacks in LLMs with Instruction Tuning**](https://arxiv.org/pdf/2404.19597)\
+Xuanli He, Jun Wang, Qiongkai Xu, Pasquale Minervini, Pontus Stenetorp, Benjamin I. P. Rubinstein, Trevor Cohn\
+*<span style="color:gray">In Findings of the 63nd Annual Meeting of the Association for Computational Linguistics (ACL), July 2025</span>.*
+
 + [C29] [**HEAL: Healthcare Emergency Assistants Leveraging Large Language Models**]()\
 Zihan Zhu, Qiongkai Xu<sup>&#x2709;</sup>, Amin Beheshti\
 *<span style="color:gray">In Proceedings of the ACM Web Conference 2025 (WWW): System Demonstrations, Apr 2025</span>.*

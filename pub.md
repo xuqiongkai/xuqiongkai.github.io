@@ -12,6 +12,10 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 
 ### To Appear
 
++ [J4] [**IDT: Dual-Task Adversarial Attacks for Privacy Protection**](https://arxiv.org/abs/2406.19642)\
+Pedro Faustini, Shakila Mahjabin Tonni, Annabelle McIver, Qiongkai Xu, Mark Dras\
+*<span style="color:gray"> Computational Linguistics (CL), Sep 2025</span>.*
+
 + [C32] [**ALGEN: Few-shot Inversion Attacks on Textual Embeddings using Alignment and Generation**](https://arxiv.org/pdf/2502.11308)\
 Yiyi Chen, Qiongkai Xu<sup>&#x2709;</sup>, Johannes Bjerva\
 *<span style="color:gray">In Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics (ACL), July 2025</span>.*
@@ -24,9 +28,11 @@ Anudeex Shetty, Qiongkai Xu, Jey Han Lau\
 Xuanli He, Jun Wang, Qiongkai Xu, Pasquale Minervini, Pontus Stenetorp, Benjamin I. P. Rubinstein, Trevor Cohn\
 *<span style="color:gray">In Findings of the Association for Computational Linguistics: ACL 2025 (Findings-ACL), July 2025</span>.*
 
-+ [C29] [**HEAL: Healthcare Emergency Assistants Leveraging Large Language Models**]()\
+### 2025
+
++ [C29] [**HEAL: Healthcare Emergency Assistants Leveraging Large Language Models**](https://dl.acm.org/doi/abs/10.1145/3701716.3715181)\
 Zihan Zhu, Qiongkai Xu<sup>&#x2709;</sup>, Amin Beheshti\
-*<span style="color:gray">In Proceedings of the ACM Web Conference 2025 (WWW): System Demonstrations, Apr 2025</span>.*
+*<span style="color:gray">In Companion Proceedings of the ACM on Web Conference 2025 (WWW): System Demonstrations, Apr 2025</span>.*
 
 ### 2024
 

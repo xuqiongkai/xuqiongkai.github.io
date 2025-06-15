@@ -36,11 +36,11 @@ Zihan Zhu, Qiongkai Xu<sup>&#x2709;</sup>, Amin Beheshti\
 
 ### 2024
 
-+ [W6] [**Overview of the 2024 ALTA Shared Task: Detect Automatic AI-Generated Sentences for Human-AI Hybrid Articles**](https://alta2023.alta.asn.au/files/st_00.pdf)\
++ [W6] [**Overview of the 2024 ALTA Shared Task: Detect Automatic AI-Generated Sentences for Human-AI Hybrid Articles**](https://aclanthology.org/2024.alta-1.17.pdf)\
 Diego Molla, Qiongkai Xu, Zijie Zeng, Zhuang Li\
 *<span style="color:gray"> In Proceedings of the 22nd Annual Workshop of the Australasian Language Technology Association (ALTA), Dec 2024</span>.*
 
-+ [C28] [**Seeing the Forest through the Trees: Data Leakage from Partial Transformer Gradients**](https://arxiv.org/abs/2406.00999)\
++ [C28] [**Seeing the Forest through the Trees: Data Leakage from Partial Transformer Gradients**](https://aclanthology.org/2024.emnlp-main.275.pdf)\
 Weijun Li, Qiongkai Xu, Mark Dras\
 *<span style="color:gray"> In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 2024</span>.*
 

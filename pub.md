@@ -14,7 +14,7 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 
 + [J4] [**IDT: Dual-Task Adversarial Attacks for Privacy Protection**](https://arxiv.org/abs/2406.19642)\
 Pedro Faustini, Shakila Mahjabin Tonni, Annabelle McIver, Qiongkai Xu, Mark Dras\
-*<span style="color:gray"> Computational Linguistics (CL), Sep 2025</span>.*
+*<span style="color:gray"> Computational Linguistics (CL), xxx 2025</span>.*
 
 + [C32] [**ALGEN: Few-shot Inversion Attacks on Textual Embeddings using Alignment and Generation**](https://arxiv.org/pdf/2502.11308)\
 Yiyi Chen, Qiongkai Xu<sup>&#x2709;</sup>, Johannes Bjerva\
@@ -36,9 +36,13 @@ Zihan Zhu, Qiongkai Xu<sup>&#x2709;</sup>, Amin Beheshti\
 
 ### 2024
 
++ [W6] [**Overview of the 2024 ALTA Shared Task: Detect Automatic AI-Generated Sentences for Human-AI Hybrid Articles**](https://alta2023.alta.asn.au/files/st_00.pdf)\
+Diego Molla, Qiongkai Xu, Zijie Zeng, Zhuang Li\
+*<span style="color:gray"> In Proceedings of the 22nd Annual Workshop of the Australasian Language Technology Association (ALTA), Dec 2024</span>.*
+
 + [C28] [**Seeing the Forest through the Trees: Data Leakage from Partial Transformer Gradients**](https://arxiv.org/abs/2406.00999)\
 Weijun Li, Qiongkai Xu, Mark Dras\
-*<span style="color:gray"> In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), Dec 2024</span>.*
+*<span style="color:gray"> In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 2024</span>.*
 
 
 + [J3] [**Generative Models are Self-Watermarked: Declaring Model Authentication through Re-Generation**](https://openreview.net/pdf?id=LUHmWDydue)\

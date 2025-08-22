@@ -12,23 +12,42 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 
 ### To Appear
 
++ [C36] [**PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims**](https://arxiv.org/pdf/2505.19345)\
+Yongmin Yoo, Qiongkai Xu, Longbing Cao\
+*<span style="color:gray">In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 2025</span>.*
+
++ [C35] [**GRADA: Graph-based Reranker against Adversarial Documents Attack**](https://arxiv.org/pdf/2505.07546)\
+Jingjie Zheng, Aryo Pradipta Gema, Giwon Hong, Xuanli He,
+Pasquale Minervini, Youcheng Sun, Qiongkai Xu\
+*<span style="color:gray">In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 2025</span>.*
+
+
++ [C34] [**Cut the Deadwood Out: Post-Training Model Purification with Selective Module Substitution**](https://arxiv.org/pdf/2412.20476)\
+Yao Tong<sup>&#xFE61;</sup>, Weijun Li<sup>&#xFE61;</sup>, Xuanli He, Haolan Zhan, Qiongkai Xu<sup>&#x2709;</sup>\
+*<span style="color:gray">In Findings of the 2025 Conference on Empirical Methods in Natural Language Processing (Findings-EMNLP), Nov 2025</span>.*
+
++ [C33] [**NAP^2: A Benchmark for Naturalness and Privacy-Preserving Text Rewriting by Learning from Human**](https://arxiv.org/pdf/2406.03749)\
+Shuo Huang, William Maclean, Xiaoxi Kang, Qiongkai Xu, Zhuang Li, Xingliang Yuan, Gholamreza Haffari, Lizhen Qu\
+*<span style="color:gray">In Findings of the 2025 Conference on Empirical Methods in Natural Language Processing (Findings-EMNLP), Nov 2025</span>.*
+
 + [J4] [**IDT: Dual-Task Adversarial Attacks for Privacy Protection**](https://arxiv.org/abs/2406.19642)\
 Pedro Faustini, Shakila Mahjabin Tonni, Annabelle McIver, Qiongkai Xu, Mark Dras\
 *<span style="color:gray"> Computational Linguistics (CL), xxx 2025</span>.*
 
-+ [C32] [**ALGEN: Few-shot Inversion Attacks on Textual Embeddings using Alignment and Generation**](https://arxiv.org/pdf/2502.11308)\
+
+### 2025
+
++ [C32] [**ALGEN: Few-shot Inversion Attacks on Textual Embeddings using Alignment and Generation**](https://aclanthology.org/2025.acl-long.1185/)\
 Yiyi Chen, Qiongkai Xu<sup>&#x2709;</sup>, Johannes Bjerva\
 *<span style="color:gray">In Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics (ACL), July 2025</span>.*
 
-+ [C31] [**WET: Overcoming Paraphrasing Vulnerabilities in Embeddings-as-a-Service with Linear Transformation Watermarks**](https://arxiv.org/pdf/2409.04459)\
++ [C31] [**WET: Overcoming Paraphrasing Vulnerabilities in Embeddings-as-a-Service with Linear Transformation Watermarks**](https://aclanthology.org/2025.acl-long.1122/)\
 Anudeex Shetty, Qiongkai Xu, Jey Han Lau\
 *<span style="color:gray">In Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics (ACL), July 2025</span>.*
 
-+ [C30] [**TUBA: Cross-Lingual Transferability of Backdoor Attacks in LLMs with Instruction Tuning**](https://arxiv.org/pdf/2404.19597)\
++ [C30] [**TUBA: Cross-Lingual Transferability of Backdoor Attacks in LLMs with Instruction Tuning**](https://aclanthology.org/2025.findings-acl.848/)\
 Xuanli He, Jun Wang, Qiongkai Xu, Pasquale Minervini, Pontus Stenetorp, Benjamin I. P. Rubinstein, Trevor Cohn\
 *<span style="color:gray">In Findings of the Association for Computational Linguistics: ACL 2025 (Findings-ACL), July 2025</span>.*
-
-### 2025
 
 + [C29] [**HEAL: Healthcare Emergency Assistants Leveraging Large Language Models**](https://dl.acm.org/doi/abs/10.1145/3701716.3715181)\
 Zihan Zhu, Qiongkai Xu<sup>&#x2709;</sup>, Amin Beheshti\

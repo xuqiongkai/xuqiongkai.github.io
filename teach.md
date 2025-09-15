@@ -19,6 +19,18 @@ feature_text: |
     + School of Computing, FSE, Macquarie University
     + Co-lectured with Longbing Cao
 
+**Big Data, COMP6210** (S2)
+    + School of Computing, FSE, Macquarie University
+    + Co-lectured with Yan Wang
+
+**Introduction to Cyber Security, COMP1300/COMP6013** (S2)
+    + School of Computing, FSE, Macquarie University
+    + Co-lectured with Matthew Mansour and Yimeng Feng
+
+**Research Thesis A, COMP4092** (S2)
+    + School of Computing, FSE, Macquarie University
+    + Supervised 2 students
+    
 ### 2024
 + **Advanced Natural Language Processing, COMP8420** (S1)
     + School of Computing, FSE, Macquarie University

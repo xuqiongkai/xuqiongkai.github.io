@@ -17,8 +17,8 @@ Yongmin Yoo, Qiongkai Xu, Longbing Cao\
 *<span style="color:gray">In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 2025</span>.*
 
 + [C35] [**GRADA: Graph-based Reranker against Adversarial Documents Attack**](https://arxiv.org/pdf/2505.07546)\
-Jingjie Zheng, Aryo Pradipta Gema, Giwon Hong, Xuanli He,
-Pasquale Minervini, Youcheng Sun, Qiongkai Xu\
+Jingjie Zheng, Aryo Pradipta Gema, Giwon Hong, Xuanli He<sup>&#x2709;</sup>,
+Pasquale Minervini, Youcheng Sun, Qiongkai Xu<sup>&#x2709;</sup>\
 *<span style="color:gray">In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 2025</span>.*
 
 

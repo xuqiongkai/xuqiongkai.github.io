@@ -14,10 +14,12 @@ If you're passionate about these research topics, I would love to hear your thou
 *Email: qiongkai.xu[at]mq.edu.au*
 
 ### Latest News
++ [Oct, 2025] We are grateful to the support from ***Google Cloud Research Credits Program*** on our [Anti-BAD](https://anti-bad.github.io) competition at [IEEE SaTML 2026](https://satml.org/competitions/)!
++ [Sep, 2025] Congratulations to Zihan and our team on receiving a seed grant from ***Macquarie University Incubator***!
 + [Sep, 2025] I am honored to serve as an **Area Chair** for **ICLR**! 
-+ [Aug, 2025] Four papers on *"Patient Claim Evaluation"*, *"Adversarial RAG Defense"*, *"LLM Backdoor Defense"* and *"Privacy-Preserving Text Rewriting"* have been accepted to EMNLP 2025!
++ [Aug, 2025] **Four papers** on *"Patient Claim Evaluation"*, *"Adversarial RAG Defense"*, *"LLM Backdoor Defense"* and *"Privacy-Preserving Text Rewriting"* have been accepted to EMNLP 2025!
 + [Jun, 2025] Our paper: **"IDT: Dual-Task Adversarial Attacks for Privacy Protection"** has been accepted to Computational Linguistics (CL)! Congrats to Pedro and all co-authors!
-+ [May, 2025] Three papers on *"Data Inversion Attack"*, *"Embedding Watermark"* and *"Cross-Lingual Backdoor Attack"* have been accepted to ACL 2025! 
++ [May, 2025] **Three papers** on *"Data Inversion Attack"*, *"Embedding Watermark"* and *"Cross-Lingual Backdoor Attack"* have been accepted to ACL 2025! 
 + [May, 2025] Big thanks to FSE Travel Funding and looking forward to seeing you in Vienna!
 + [Jan, 2025] One demo paper on Emergency Healthcare has been accepted to WWW 2025! We look forward to discussing the project with you in Sydney!
 + [Dec, 2024] Congratulations to my students, Anudeex and Zihan, granted prestegious scholarships, *CIS PhD scholarship* and *DFCRC scholarship*, respectively!

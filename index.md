@@ -26,6 +26,7 @@ If you're passionate about these research topics, I would love to hear your thou
 + [Sep, 2024] **"Seeing the Forest through the Trees: Data Leakage from Partial Transformer Gradients"** is accepted to EMNLP 2024. Congratulations to Weijun and team!
 + [Sep, 2024] I am fortunate to have won the **Research Pitching Session** at Macquarie University for the second time!
 + [Sep, 2024] Our paper: **"Generative Models are Self-Watermarked: Declaring Model Authentication through Re-Generation"** is accepted to Transactions on Machine Learning Research (TMLR)! Congrats to Aditya and all co-authors!
+
 <!-- 
 + [Aug, 2024] Our Tutorial on **"A Copyright War: Authentication for Large Language Models"** in IJCAI 2024 is available [(pdf)](./files/tutorial%20IJCAI2024.pdf).
 + [Jun, 2024] We are grateful for multiple internal and external fundings! Opportunities will soon be available for PhD candidates, and Postdoctoral fellows. We look forward to collaborating with talented and enthusiastic individuals on challenges related to *<u>AI safety</u>*!
@@ -64,7 +65,7 @@ If you're passionate about these research topics, I would love to hear your thou
 
 + [**Generative Models are Self-Watermarked: Declaring Model Authentication through Re-Generation**](https://openreview.net/pdf?id=LUHmWDydue), Aditya Desu, Xuanli He, Qiongkai Xu, Wei Lu. *<span style="color:gray"> Transactions on Machine Learning Research (TMLR), Sep 2024</span>.*
 
-+ [**Here's a Free Lunch: Sanitizing Backdoored Models with Model Merge**](https://aclanthology.org/2024.findings-acl.894)\, Ansh Arora, Xuanli He, Maximilian Mozes, Srinibas Swain, Mark Dras, Qiongkai Xu. *<span style="color:gray">In Findings of the Association for Computational Linguistics: ACL 2024 (Findings-ACL), Aug 2024</span>.*
++ [**Here's a Free Lunch: Sanitizing Backdoored Models with Model Merge**](https://aclanthology.org/2024.findings-acl.894), Ansh Arora, Xuanli He, Maximilian Mozes, Srinibas Swain, Mark Dras, Qiongkai Xu. *<span style="color:gray">In Findings of the Association for Computational Linguistics: ACL 2024 (Findings-ACL), Aug 2024</span>.*
 
 + [**Security Challenges in Natural Language Processing Models**](https://aclanthology.org/2023.emnlp-tutorial.2/). Qiongkai Xu, Xuanli He.
 *<span style="color:gray">In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP): Tutorial Abstracts, Dec 2023</span>.*
@@ -78,10 +79,8 @@ If you're passionate about these research topics, I would love to hear your thou
 
 <!-- + [**Training-Free Lexical Backdoor Attacks on Language Models**](https://arxiv.org/abs/2302.04116), Yujin Huang, Terry Zhuo Yue, Qiongkai Xu, Han Hu, Xingliang Yuan, Chunyang Chen.
 *<span style="color:gray">(Accepted to WWW 2023)</span>.* -->
-
 <!-- + [**Variational Autoencoder with Disentanglement Priors for Low-Resource Task-Specific Natural Language Generation**](https://aclanthology.org/2022.emnlp-main.706). Zhuang Li, Lizhen Qu, Qiongkai Xu, Tongtong Wu, Tianyang Zhan, Gholamreza Haffari.
 *<span style="color:gray">In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), Dec 2022</span>.* -->
-
 <!-- + [**Extracted BERT Model Leaks More Information than You Think!**](https://aclanthology.org/2022.emnlp-main.99/). Xuanli He, Chen Chen, Lingjuan Lyu, Qiongkai Xu.
 *<span style="color:gray">In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), Dec 2022</span>.* -->
 

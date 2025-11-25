@@ -10,32 +10,29 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 
 *Corresponding author* (&#x2709;) and *Equal contribution* (&#xFE61;)
 
-### To Appear
+<!-- ### To Appear -->
+### 2025
 
-+ [C36] [**PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims**](https://arxiv.org/pdf/2505.19345)\
++ [C36] [**PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims**](https://aclanthology.org/2025.emnlp-main.1564.pdf)\
 Yongmin Yoo, Qiongkai Xu, Longbing Cao\
 *<span style="color:gray">In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 2025</span>.*
 
-+ [C35] [**GRADA: Graph-based Reranker against Adversarial Documents Attack**](https://arxiv.org/pdf/2505.07546)\
++ [C35] [**GRADA: Graph-based Reranker against Adversarial Documents Attack**](https://aclanthology.org/2025.emnlp-main.1132.pdf)\
 Jingjie Zheng, Aryo Pradipta Gema, Giwon Hong, Xuanli He<sup>&#x2709;</sup>,
 Pasquale Minervini, Youcheng Sun, Qiongkai Xu<sup>&#x2709;</sup>\
 *<span style="color:gray">In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 2025</span>.*
 
-
-+ [C34] [**Cut the Deadwood Out: Post-Training Model Purification with Selective Module Substitution**](https://arxiv.org/pdf/2412.20476)\
++ [C34] [**Cut the Deadwood Out: Post-Training Model Purification with Selective Module Substitution**](https://aclanthology.org/2025.findings-emnlp.1293.pdf)\
 Yao Tong<sup>&#xFE61;</sup>, Weijun Li<sup>&#xFE61;</sup>, Xuanli He, Haolan Zhan, Qiongkai Xu<sup>&#x2709;</sup>\
-*<span style="color:gray">In Findings of the 2025 Conference on Empirical Methods in Natural Language Processing (Findings-EMNLP), Nov 2025</span>.*
+*<span style="color:gray">In Findings of the Association for Computational Linguistics: EMNLP 2025 (Findings-EMNLP), Nov 2025</span>.*
 
-+ [C33] [**NAP^2: A Benchmark for Naturalness and Privacy-Preserving Text Rewriting by Learning from Human**](https://arxiv.org/pdf/2406.03749)\
++ [C33] [**NAP^2: A Benchmark for Naturalness and Privacy-Preserving Text Rewriting by Learning from Human**](https://aclanthology.org/2025.findings-emnlp.476.pdf)\
 Shuo Huang, William Maclean, Xiaoxi Kang, Qiongkai Xu, Zhuang Li, Xingliang Yuan, Gholamreza Haffari, Lizhen Qu\
-*<span style="color:gray">In Findings of the 2025 Conference on Empirical Methods in Natural Language Processing (Findings-EMNLP), Nov 2025</span>.*
+*<span style="color:gray">In Findings of the Association for Computational Linguistics: EMNLP 2025 (Findings-EMNLP), Nov 2025</span>.*
 
 + [J4] [**IDT: Dual-Task Adversarial Attacks for Privacy Protection**](https://arxiv.org/abs/2406.19642)\
 Pedro Faustini, Shakila Mahjabin Tonni, Annabelle McIver, Qiongkai Xu, Mark Dras\
-*<span style="color:gray"> Computational Linguistics (CL), xxx 2025</span>.*
-
-
-### 2025
+*<span style="color:gray"> Computational Linguistics (CL), 1-39, Oct 2025</span>.*
 
 + [C32] [**ALGEN: Few-shot Inversion Attacks on Textual Embeddings using Alignment and Generation**](https://aclanthology.org/2025.acl-long.1185/)\
 Yiyi Chen, Qiongkai Xu<sup>&#x2709;</sup>, Johannes Bjerva\
@@ -103,7 +100,7 @@ Xuanli He, Qiongkai Xu, Jun Wang, Benjamin I. P. Rubinstein, Trevor Cohn\
 
 + [C22] [**Boot and Switch: Alternating Distillation for Zero-Shot Dense Retrieval**](https://aclanthology.org/2023.findings-emnlp.65/)\
 Fan Jiang, Qiongkai Xu, Tom Drummond, Trevor Cohn\
-*<span style="color:gray"> In Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (Findings-EMNLP), Dec 2023</span>.*
+*<span style="color:gray"> In Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings-EMNLP), Dec 2023</span>.*
 
 
 + [W4] [**Overview of the 2023 ALTA Shared Task: Discriminate between Human-Written and Machine-Generated Text**](https://alta2023.alta.asn.au/files/st_00.pdf)\
@@ -116,7 +113,7 @@ Qiongkai Xu, Trevor Cohn, Olga Ohrimenko\
 
 + [C20] [**Rethinking Round-Trip Translation for Machine Translation Evaluation**](https://aclanthology.org/2023.findings-acl.22/)\
 Terry Yue Zhuo, Qiongkai Xu<sup>&#x2709;</sup>, Xuanli He, Trevor Cohn\
-*<span style="color:gray"> In Findings of the Association for Computational Linguistics: ACL (Findings-ACL), Jul 2023 </span>.*
+*<span style="color:gray"> In Findings of the Association for Computational Linguistics: ACL 2023 (Findings-ACL), Jul 2023 </span>.*
 
 + [C19] [**Humanly Certifying Superhuman Classifiers**](https://openreview.net/forum?id=X5ZMzRYqUjB)\
 Qiongkai Xu, Christian Walder, Chenchen Xu\

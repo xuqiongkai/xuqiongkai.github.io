@@ -31,6 +31,14 @@ feature_text: |
     + School of Computing, FSE, Macquarie University
     + Supervised 2 students
 
++ **AI for Text and Vision, COMP3420/6420** (S2)
+    + School of Computing, FSE, Macquarie University
+    + Guest Lecturer
+    
++ **AI Series: AI for Text Processing** (Summer)
+    + Macquarie University - Suzhou University of Science and Technology
+    + Co-lectured with Diego-Molla and Yuankai Qi
+
 ### 2024
 + **Advanced Natural Language Processing, COMP8420** (S1)
     + School of Computing, FSE, Macquarie University

@@ -17,12 +17,12 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 Yongmin Yoo, Qiongkai Xu, Longbing Cao\
 *<span style="color:gray">In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 2025</span>.*
 
-+ [C35] [**GRADA: Graph-based Reranker against Adversarial Documents Attack**](https://aclanthology.org/2025.emnlp-main.1132.pdf)\
++ [C35] [**GRADA: Graph-based Reranking against Adversarial Documents Attack**](https://aclanthology.org/2025.emnlp-main.1132.pdf)\
 Jingjie Zheng, Aryo Pradipta Gema, Giwon Hong, Xuanli He<sup>&#x2709;</sup>,
 Pasquale Minervini, Youcheng Sun, Qiongkai Xu<sup>&#x2709;</sup>\
 *<span style="color:gray">In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov 2025</span>.*
 
-+ [C34] [**Cut the Deadwood Out: Post-Training Model Purification with Selective Module Substitution**](https://aclanthology.org/2025.findings-emnlp.1293.pdf)\
++ [C34] [**Cut the Deadwood Out: Backdoor Purification via Guided Module Substitution**](https://aclanthology.org/2025.findings-emnlp.1293.pdf)\
 Yao Tong<sup>&#xFE61;</sup>, Weijun Li<sup>&#xFE61;</sup>, Xuanli He, Haolan Zhan, Qiongkai Xu<sup>&#x2709;</sup>\
 *<span style="color:gray">In Findings of the Association for Computational Linguistics: EMNLP 2025 (Findings-EMNLP), Nov 2025</span>.*
 
@@ -34,7 +34,7 @@ Shuo Huang, William Maclean, Xiaoxi Kang, Qiongkai Xu, Zhuang Li, Xingliang Yuan
 Pedro Faustini, Shakila Mahjabin Tonni, Annabelle McIver, Qiongkai Xu, Mark Dras\
 *<span style="color:gray"> Computational Linguistics (CL), 1-39, Oct 2025</span>.*
 
-+ [C32] [**ALGEN: Few-shot Inversion Attacks on Textual Embeddings using Alignment and Generation**](https://aclanthology.org/2025.acl-long.1185/)\
++ [C32] [**ALGEN: Few-shot Inversion Attacks on Textual Embeddings via Cross-Model Alignment and Generation**](https://aclanthology.org/2025.acl-long.1185/)\
 Yiyi Chen, Qiongkai Xu<sup>&#x2709;</sup>, Johannes Bjerva\
 *<span style="color:gray">In Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics (ACL), July 2025</span>.*
 

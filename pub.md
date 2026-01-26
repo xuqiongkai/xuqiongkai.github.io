@@ -10,7 +10,12 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 
 *Corresponding author* (&#x2709;) and *Equal contribution* (&#xFE61;)
 
-<!-- ### To Appear -->
+### To Appear
++ [C37] [**Defending against Backdoor Attacks via Module Switching**](https://openreview.net/pdf?id=ieCOL2YAqv)\
+Weijun Li, Ansh Arora, Xuanli He, Mark Dras, Qiongkai Xu<sup>&#x2709;</sup>\
+*<span style="color:gray"> In Proceedings of the Fourteenth International Conference on Learning Representations (ICLR), Apr 2026</span>.*
+
+
 ### 2025
 
 + [C36] [**PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims**](https://aclanthology.org/2025.emnlp-main.1564.pdf)\

@@ -14,9 +14,11 @@ If you're passionate about these research topics, I would love to hear your thou
 *Email: qiongkai.xu[at]mq.edu.au*
 
 ### Latest News
++ [Jan, 2026] Our paper **"Defending against Backdoor Attacks via Module Switching"** has been accepted to ICLR 2026! Congratulations to Weijun and team!
++ [Jan, 2026] I am honored to serve as a **Position Paper Track** reviwer for **ICML 2026**! 
 + [Oct, 2025] We are grateful to the support from ***Google Cloud Research Credits Program*** on our [Anti-BAD](https://anti-bad.github.io) competition at [IEEE SaTML 2026](https://satml.org/competitions/)!
 + [Sep, 2025] Congratulations to Zihan and our team on receiving a seed grant from ***Macquarie University Incubator***!
-+ [Sep, 2025] I am honored to serve as an **Area Chair** for **ICLR**! 
++ [Sep, 2025] I am honored to serve as an **Area Chair** for **ICLR 2026**! 
 + [Aug, 2025] **Four papers** on *"Patient Claim Evaluation"*, *"Adversarial RAG Defense"*, *"LLM Backdoor Defense"* and *"Privacy-Preserving Text Rewriting"* have been accepted to EMNLP 2025!
 + [Jun, 2025] Our paper: **"IDT: Dual-Task Adversarial Attacks for Privacy Protection"** has been accepted to Computational Linguistics (CL)! Congrats to Pedro and all co-authors!
 + [May, 2025] **Three papers** on *"Data Inversion Attack"*, *"Embedding Watermark"* and *"Cross-Lingual Backdoor Attack"* have been accepted to ACL 2025! 

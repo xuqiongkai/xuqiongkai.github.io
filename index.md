@@ -14,6 +14,7 @@ If you're passionate about these research topics, I would love to hear your thou
 *Email: qiongkai.xu[at]mq.edu.au*
 
 ### Latest News
++ [Mar, 2026] I am glad to serve as an **Area Chair** for **NeurIPS 2026**! 
 + [Jan, 2026] Our paper **"Defending against Backdoor Attacks via Module Switching"** has been accepted to ICLR 2026! Congratulations to Weijun and team!
 + [Jan, 2026] I am honored to serve as a **Position Paper Track** reviwer for **ICML 2026**! 
 + [Oct, 2025] We are grateful to the support from ***Google Cloud Research Credits Program*** on our [Anti-BAD](https://anti-bad.github.io) competition at [IEEE SaTML 2026](https://satml.org/competitions/)!

@@ -17,7 +17,7 @@ Lingfeng Zhong, Qiongkai Xu, Usman Naseem\
 
 + [C38] [**PatentMind: A Multi-Aspect Reasoning Graph for Patent Similarity Evaluation**]()\
 Yongmin Yoo, Qiongkai Xu, Longbing Cao\
-*<span style="color:gray"> In Findings of the Association for Computational Linguistics: ACL 2025 (Findings-ACL), Jul 2026</span>.*
+*<span style="color:gray"> In Findings of the Association for Computational Linguistics: ACL 2026 (Findings-ACL), Jul 2026</span>.*
 
 + [C37] [**Defending against Backdoor Attacks via Module Switching**](https://openreview.net/pdf?id=ieCOL2YAqv)\
 Weijun Li, Ansh Arora, Xuanli He, Mark Dras, Qiongkai Xu<sup>&#x2709;</sup>\

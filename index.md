@@ -14,7 +14,7 @@ If you're passionate about these research topics, I would love to hear your thou
 *Email: qiongkai.xu[at]mq.edu.au*
 
 ### Latest News
-+ [Apr, 2025] **Two papers** on *"LLM Backdoor Defense"* and *"Patient Similarity Evaluation"* have been accepted to ACL 2025!
++ [Apr, 2026] **Two papesrs** on *"LLM Backdoor Defense"* and *"Patient Similarity Evaluation"* have been accepted to ACL 2026s!
 + [Mar, 2026] I am glad to serve as an **Area Chair** for **NeurIPS 2026**! 
 + [Jan, 2026] Our paper **"Defending against Backdoor Attacks via Module Switching"** has been accepted to ICLR 2026! Congratulations to Weijun and team!
 + [Jan, 2026] I am honored to serve as a **Position Paper Track** reviwer for **ICML 2026**! 

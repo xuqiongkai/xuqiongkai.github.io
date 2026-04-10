@@ -11,6 +11,14 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 *Corresponding author* (&#x2709;) and *Equal contribution* (&#xFE61;)
 
 ### To Appear
++ [C39] [**Activation Decomposition and Steering for LLM Backdoor Remediation**]()\
+Lingfeng Zhong, Qiongkai Xu, Usman Naseem\
+*<span style="color:gray"> In Proceedings the 64th Annual Meeting of the Association for Computational Linguistics (ACL), Jul 2026</span>.*
+
++ [C38] [**PatentMind: A Multi-Aspect Reasoning Graph for Patent Similarity Evaluation**]()\
+Yongmin Yoo, Qiongkai Xu, Longbing Cao\
+*<span style="color:gray"> In Findings of the Association for Computational Linguistics: ACL 2025 (Findings-ACL), Jul 2026</span>.*
+
 + [C37] [**Defending against Backdoor Attacks via Module Switching**](https://openreview.net/pdf?id=ieCOL2YAqv)\
 Weijun Li, Ansh Arora, Xuanli He, Mark Dras, Qiongkai Xu<sup>&#x2709;</sup>\
 *<span style="color:gray"> In Proceedings of the Fourteenth International Conference on Learning Representations (ICLR), Apr 2026</span>.*

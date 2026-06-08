@@ -19,7 +19,7 @@ feature_text: |
     + School of Computing, FSE, Macquarie University
     + Co-lectured with Longbing Cao
 
-+ **Research Thesis A & B, COMP4092 & 4093** (S1)
++ **Research Thesis A/B, COMP4092/4093** (S1)
     + School of Computing, FSE, Macquarie University
     + Supervised 3+3 students
 

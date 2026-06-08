@@ -1,6 +1,6 @@
 # Set theme
 # remote_theme: daviddarnes/alembic@main
-remote_theme: abhinavs/moonwalk@main
+remote_theme: benbalter/retlab
 
 # File excludes
 exclude:

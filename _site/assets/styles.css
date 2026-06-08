@@ -1394,7 +1394,7 @@ body {
 }
 .feature .container {
   min-height: 35vh;
-  max-width: 60%;
+  max-width: 90%;
   -webkit-box-direction: normal;
   -webkit-box-orient: vertical;
   -webkit-flex-direction: column;

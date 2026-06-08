@@ -1544,7 +1544,7 @@ body {
 
 @media screen and (min-width: 40em) {
   .aside {
-    max-width: 34%;
+    max-width: 10%;
     margin-left: 4%;
     -webkit-box-flex: 1;
     -webkit-flex: 1 0 auto;

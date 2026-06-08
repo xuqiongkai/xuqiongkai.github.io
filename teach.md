@@ -6,6 +6,27 @@ feature_text: |
   *by ChatGPT*
 ---
 
+### 2026
++ **Mining Unstructured Data, COMP8230** (S1)
+    + School of Computing, FSE, Macquarie University
+    + Co-lectured with Yu Zhang
+
++ **Big Data, COMP6210/COMP3210** (S1)
+    + School of Computing, FSE, Macquarie University
+    + Co-lectured with Yanqiu Wu
+
++ **Advanced Natural Language Processing, COMP8420** (S1)
+    + School of Computing, FSE, Macquarie University
+    + Co-lectured with Longbing Cao
+
++ **Research Thesis A & B, COMP4092 & 4093** (S1)
+    + School of Computing, FSE, Macquarie University
+    + Supervised 3+3 students
+
++ **Major Project (Internal Project), COMP8851** (S1)
+    + School of Computing, FSE, Macquarie University
+    + Supervised 11 students
+
 ### 2025
 + **Mining Unstructured Data, COMP8230** (S1)
     + School of Computing, FSE, Macquarie University

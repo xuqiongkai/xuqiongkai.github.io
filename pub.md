@@ -19,6 +19,12 @@ Lingfeng Zhong, Qiongkai Xu, Usman Naseem\
 Yongmin Yoo, Qiongkai Xu, Longbing Cao\
 *<span style="color:gray"> In Findings of the Association for Computational Linguistics: ACL 2026 (Findings-ACL), Jul 2026</span>.*
 
++ [**Fighting Low-Effort LLM-Assisted Reviews Requires Continued Investigation of Prompt Injection**](./files/position_review_compliance_by_design_2026.pdf)\
+Xuanli He<sup>&#xFE61;</sup>, Weijun Li<sup>&#xFE61;</sup>, Timothy Chard, Mark Dras, Qiongkai Xu<sup>&#x2709;</sup>\
+*<span style="color:gray"> Preprint, Jun 2026</span>.*
+
+### 2026
+
 + [C37] [**Defending against Backdoor Attacks via Module Switching**](https://openreview.net/pdf?id=ieCOL2YAqv)\
 Weijun Li, Ansh Arora, Xuanli He, Mark Dras, Qiongkai Xu<sup>&#x2709;</sup>\
 *<span style="color:gray"> In Proceedings of the Fourteenth International Conference on Learning Representations (ICLR), Apr 2026</span>.*

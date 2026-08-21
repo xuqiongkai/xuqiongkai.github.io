@@ -14,6 +14,7 @@ If you're passionate about these research topics, I would love to hear your thou
 *Email: qiongkai.xu[at]mq.edu.au*
 
 ### Latest News
++ [Aug, 2026] **Three papers** on *"Semantic Recovery Attacks"*, *"LLM Authorship Attribution"* and *"Cost-Efficient Evaluation"* have been accepted to EMNLP 2026!
 + [May, 2026] We are grateful to have received support from several grants. A few short-term Research Assistant positions and Master of Research scholarships are now open for applications. Please email me if you are interested in research challenges related to backdoor attacks and defenses and/or ML watermarking. 
 + [Apr, 2026] **Two papesrs** on *"LLM Backdoor Defense"* and *"Patient Similarity Evaluation"* have been accepted to ACL 2026!
 + [Mar, 2026] I am glad to serve as an **Area Chair** for **NeurIPS 2026**! 

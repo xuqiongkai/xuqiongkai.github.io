@@ -11,19 +11,34 @@ A complete list of publications: [[Google Scholar](https://scholar.google.com.au
 *Corresponding author* (&#x2709;) and *Equal contribution* (&#xFE61;)
 
 ### To Appear
-+ [C39] [**Activation Decomposition and Steering for LLM Backdoor Remediation**]()\
-Lingfeng Zhong, Qiongkai Xu, Usman Naseem\
-*<span style="color:gray"> In Proceedings the 64th Annual Meeting of the Association for Computational Linguistics (ACL), Jul 2026</span>.*
++ [C43] [**Few-shot Semantic Recovery Attacks on Image Embeddings**]()\
+Yiyi Chen, Qiongkai Xu, Johannes Bjerva\
+*<span style="color:gray"> In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP), Oct 2026</span>.*
 
-+ [C38] [**PatentMind: A Multi-Aspect Reasoning Graph for Patent Similarity Evaluation**]()\
++ [C42] [**Who Wrote the Book? Detecting and Attributing LLM Ghostwriters**]()\
+Anudeex Shetty, Qiongkai Xu, Olga Ohrimenko, Jey Han Lau\
+*<span style="color:gray"> In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP), Oct 2026</span>.*
+
++ [C41] [**Adaptive Cost-Efficient Evaluation for Reliable Patent Claim Generation**]()\
 Yongmin Yoo, Qiongkai Xu, Longbing Cao\
-*<span style="color:gray"> In Findings of the Association for Computational Linguistics: ACL 2026 (Findings-ACL), Jul 2026</span>.*
+*<span style="color:gray"> In In Findings of the Association for Computational Linguistics: EMNLP 2026 (Findings-EMNLP), Oct 2026</span>.*
+
++ [C40] [**AISecurityPulse: Automating Security Issue Reports for AI Models**]()\
+Tuong Phuc Ngo, Sajjad Nakhwa, Weijun Li, Anudeex Shetty, Qiongkai Xu<sup>&#x2709;</sup>\
+*<span style="color:gray"> In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD): Demo Track, Sep 2026</span>.*
 
 + [**Fighting Low-Effort LLM-Assisted Reviews Requires Continued Investigation of Prompt Injection**](./files/position_review_compliance_by_design_2026.pdf)\
 Xuanli He<sup>&#xFE61;</sup>, Weijun Li<sup>&#xFE61;</sup>, Timothy Chard, Mark Dras, Qiongkai Xu<sup>&#x2709;</sup>\
 *<span style="color:gray"> Preprint, Jun 2026</span>.*
 
 ### 2026
++ [C39] [**Activation Decomposition and Steering for LLM Backdoor Remediation**](https://aclanthology.org/2026.acl-long.2025.pdf)\
+Lingfeng Zhong, Qiongkai Xu, Usman Naseem\
+*<span style="color:gray"> In Proceedings the 64th Annual Meeting of the Association for Computational Linguistics (ACL), Jul 2026</span>.*
+
++ [C38] [**PatentMind: A Multi-Aspect Reasoning Graph for Patent Similarity Evaluation**](https://aclanthology.org/2026.findings-acl.735.pdf)\
+Yongmin Yoo, Qiongkai Xu, Longbing Cao\
+*<span style="color:gray"> In Findings of the Association for Computational Linguistics: ACL 2026 (Findings-ACL), Jul 2026</span>.*
 
 + [C37] [**Defending against Backdoor Attacks via Module Switching**](https://openreview.net/pdf?id=ieCOL2YAqv)\
 Weijun Li, Ansh Arora, Xuanli He, Mark Dras, Qiongkai Xu<sup>&#x2709;</sup>\

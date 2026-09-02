@@ -13,7 +13,11 @@ Dr. Qiongkai Xu is a lecturer at Macquarie University, having earned his PhD fro
 If you're passionate about these research topics, I would love to hear your thoughts and ideas.
 *Email: qiongkai.xu[at]mq.edu.au*
 
+### We are Hiring!
++ Two on-shore Research Assistants (RAs) on adversarial machine learning research. (More details about the [jobs](./files/RA_Adv_ML_2026_Sep.pdf).)
+
 ### Latest News
++ [Sep, 2026] Our GenChal on *"Generalisable Authorship Attribution in Human- and LLM-Generated Texts"* has been accepted to INLG 2026! You’re very welcome to take on the challenge and join the competition next year!
 + [Aug, 2026] **Three papers** on *"Semantic Recovery Attacks"*, *"LLM Authorship Attribution"* and *"Cost-Efficient Evaluation"* have been accepted to EMNLP 2026!
 + [May, 2026] We are grateful to have received support from several grants. A few short-term Research Assistant positions and Master of Research scholarships are now open for applications. Please email me if you are interested in research challenges related to backdoor attacks and defenses and/or ML watermarking. 
 + [Apr, 2026] **Two papesrs** on *"LLM Backdoor Defense"* and *"Patient Similarity Evaluation"* have been accepted to ACL 2026!
